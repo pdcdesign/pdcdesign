@@ -1,0 +1,114 @@
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,700,700italic,800,800italic|Merriweather:400,400italic,700,700italic,900,900italic);
+
+/**
+font-family: 'Open Sans', sans-serif;
+font-family: 'Merriweather', serif;
+**/  
+  /*==========  Mobile First Method  ==========*/
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (min-width : 320px) {
+       body{
+			font-family: 'Open Sans', sans-serif;
+			font-size:12pt;
+			line-height:1.75em;
+		}
+		p{
+			font-family: 'Open Sans', sans-serif;
+		}
+		h1, h2, h3, h4, h5{
+			font-family: 'Open Sans', sans-serif;
+		}
+
+		h1{
+			font-family: 'Open Sans', sans-serif;
+			font-weight:900;
+		}
+
+		h2{
+			font-size:1.5em;
+			font-weight:700;
+		}
+
+		figcaption{
+			font-size:.8em;
+			font-style:italic;
+		}
+
+        /** BLOG STYLES **/
+
+		/** Header Stuff **/
+		#blog-header{
+			padding-top:128px;
+			padding-bottom:128px;
+			background-size:cover;
+			background-position:center center;
+			position:relative;
+		}
+
+		#blog-header h1{
+			color:white;
+			font-size:4em;
+		}
+
+		/** - Blog Content Stuff  **/
+		#blog-content{
+			margin-top:32px;
+			margin-bottom:32px;
+		}
+		#intro-paragraph{
+			font-size:1.25em;
+			font-family: 'Merriweather', serif;
+    		line-height: 1.75;
+    		margin-bottom:32px;
+		}
+
+		#blog-content figure{
+			padding:20px 0;
+		}
+
+
+
+
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (min-width : 480px) {
+
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (min-width : 768px) {
+
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (min-width : 992px) {
+		#blog-content{
+			margin-top:64px;
+			margin-bottom:64px;
+		}
+
+		#intro-paragraph{
+			margin-bottom:64px;
+		}
+
+    	#blog-content figcaption{
+			margin-top:16px;
+		}
+
+		.figure-row{
+			padding:32px 0 32px 0;
+			display:inline-block;
+		}
+
+		h1{
+			text-align:center;
+		}
+    }
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (min-width : 1200px) {
+
+    }
