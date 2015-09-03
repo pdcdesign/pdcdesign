@@ -22,6 +22,16 @@
                         </a>
                     {% endfor %}
 			</section>
+			<section>
+				<h3>Demos</h3>
+					{% for post in site.categories['demos'] %}
+                        <a href="{{ post.url | prepend: site.baseurl }}">
+                            <span>
+                                <h2>{{ post.title }}</h2>
+                            </span> 
+                        </a>
+                    {% endfor %}
+			</section>
 			<!--
 			<section>
 				<h3>Demos</h3>

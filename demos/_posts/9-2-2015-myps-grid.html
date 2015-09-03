@@ -1,0 +1,154 @@
+
+<style>
+
+.other{
+	height:200px;
+	background-color:black;
+}
+
+.myps-section{
+	height:100%;
+	overflow:hidden;
+}
+
+
+.grid {
+	width:45%;
+	float:right;
+  -webkit-animation: GRID 90s infinite; /* Safari 4+ */
+  -moz-animation:    GRID 90s infinite; /* Fx 5+ */
+  -o-animation:      GRID 90s infinite; /* Opera 12+ */
+  animation:         GRID 90s infinite; /* IE 10+, Fx 29+ */
+  -webkit-animation-timing-function: linear; /* Chrome, Safari, Opera */
+    animation-timing-function: linear;
+}
+}
+
+
+
+@-webkit-keyframes GRID {
+  0%   { margin-top: 0%; }
+  50%	{  margin-top:-100%;}
+  100% { margin-top:0%%; }
+}
+@-moz-keyframes GRID {
+  0%   { margin-top: 0%; }
+  50%	{  margin-top:-100%;}
+  100% { margin-top:0%%; }
+}
+@-o-keyframes GRID {
+  0%   { margin-top: 0%; }
+  50%	{  margin-top:-100%;}
+  100% { margin-top:0%%; }
+}
+@keyframes GRID {
+  0%   { margin-top: 0%; }
+  50%	{  margin-top:-100%;}
+  100% { margin-top:0%%; }
+}
+
+
+
+.container{
+	height:100%;
+	padding:0 30px 0 30px;
+	margin:auto;
+	width:960px;
+	box-sizing:border-box;
+}
+
+.mypslogo{
+	width:250px;
+	margin-bottom:16px;
+}
+.section-button{
+	padding:15px;
+	color:white;
+	font-weight:600;
+	float:left;
+	margin-top:16px;
+	background-image: -webkit-linear-gradient(top,#008ae3,#0070c7);
+    background-image: -moz-linear-gradient(top,#008ae3,#0070c7);
+    background-image: -ms-linear-gradient(top,#008ae3,#0070c7);
+    background-image: -o-linear-gradient(top,#008ae3,#0070c7);
+    background-image: linear-gradient(top,#008ae3,#0070c7);
+    text-transform:uppercase;
+}
+
+.left-text{
+	width:45%;
+	float:left;
+	position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+
+ /* Large Devices, Wide Screens */
+    @media only screen and (max-width : 1200px) {
+
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (max-width : 992px) {
+    	.container{
+    		width:750px;
+    	}
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (max-width : 768px) {
+    	.container{
+    		width:100%;
+    	}
+    		.left-text{
+			width:90%;
+			margin:auto;
+			position: relative;
+			  top: 0;
+			  transform: none;
+			  float:none;
+			  margin-bottom:100px;
+			  margin-top:50px;
+		}
+		.grid{
+			width:80%;
+			margin:auto;
+			 -webkit-animation:none;
+				-moz-animation:none;   
+				  -o-animation:none;     
+				     animation:none;
+				     float:none;
+				     display:block;        
+		}
+
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (max-width : 480px) {
+    	
+
+    }
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (max-width : 320px) {
+        
+    }
+
+</style>
+
+
+<section class="myps-section">
+	<div class="container">
+		<div class="left-text vert-align">
+			<img class="mypslogo" src="https://psmedia.playstation.com/is/image/psmedia/myplaystationlogo?$Original$">
+			<p>
+			Sign in and personalize your PlayStation.com experience. See your friends' recent activities, check your trophies, get the latest news and more!
+			</p>
+			<a href="https://www.playstation.com/en-us/my/wall/">
+				<div class="section-button">VIEW YOUR PROFILE</div>
+			</a>
+		</div>
+		<img class="grid" src="https://psmedia.playstation.com/is/image/psmedia/grid?$TwoColumn_Image$">
+	</div>
+</section>
