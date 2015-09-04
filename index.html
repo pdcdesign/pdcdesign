@@ -6,44 +6,61 @@
 	<!--BOOTSTRAP-->
 	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-MfvZlkHCEqatNoGiOXveE8FIwMzZg4W85qfrfIFBfYc= sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
 
+	<style>
+	.coffee{
+		height:1em;
+	}
+	header{
+		background-image:url('img/flow.jpg');
+		padding:50px 0;
+		background-size:cover;
+		background-position:center;
+	}
+
+	h1{
+		color:white;
+		font-weight:900;
+		padding:20px;
+		background-color:rgba(0,0,0,.9);
+		float:left;
+	}
+
+	footer{
+		margin-top:64px;
+	}
+	</style>
 	</head>
 	<body>
-		<main class="container">
 			<header>
+			<div class="container">
+				<h1>Design @ PlayStation.com</h1>
+				</div>
 			</header>
-			<h1>Design @ PlayStation.com</h1>
+		<main class="container">
 			<section>
-				<h3>Blog Posts</h3>
+				<h2>Blog Posts</h2>
 					{% for post in site.categories['blog'] %}
                         <a href="{{ post.url | prepend: site.baseurl }}">
                             <span>
-                                <h2>{{ post.title }}</h2>
+                                <h3>{{ post.title }}</h3>
+                                <h4><img src="img/time.svg" class="coffee"> {{ post.readTime}} minute read
                             </span> 
                         </a>
                     {% endfor %}
 			</section>
 			<section>
-				<h3>Demos</h3>
+				<h2>Demos</h2>
 					{% for post in site.categories['demos'] %}
                         <a href="{{ post.url | prepend: site.baseurl }}">
                             <span>
-                                <h2>{{ post.title }}</h2>
+                                <h3>{{ post.title }}</h3>
                             </span> 
                         </a>
                     {% endfor %}
 			</section>
-			<!--
-			<section>
-				<h3>Demos</h3>
-			</section>
-			-->
-			<!--
-			<section>
-				<h3>Inspiration</h3>
-			</section>
-			-->
+			
 			<footer>
-			<h3>this is a footer</h3>
+			<h3>made with <img src="img/coffee.svg" class="coffee"> at playstation.</h3>
 			</footer>
 		</main>
 
