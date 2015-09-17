@@ -266,12 +266,13 @@
   <source src="video/flow.webm" type="video/webm">
 </video>
 	<script>
-		var $container = $('#container').imagesLoaded( function() {
+		var $container = $('#container');
 		// init
 		$container.packery({
 		  itemSelector: '.content',
 		  gutter: 0
 		});
+		
 		</script>
 		<script>
          new WOW().init();
