@@ -266,7 +266,7 @@
   <source src="video/flow.webm" type="video/webm">
 </video>
 	<script>
-		var $container = $('#container');
+		var $container = $('#container').imagesLoaded( function() {
 		// init
 		$container.packery({
 		  itemSelector: '.content',
