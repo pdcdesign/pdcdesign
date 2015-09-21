@@ -12,7 +12,7 @@
   }
 main{
 	position:relative;
-	margin-top:150px;
+	margin-top:200px;
 	z-index:100;
 	margin-bottom:200px;
 }
@@ -22,22 +22,43 @@ main{
 	display:inline-block;
 }
 
+.sony-header-bar{
+	height:35px;
+	width:100%;
+	position:fixed;
+	top:0;
+	background:black;
+	z-index:300;
+	img{
+	height:35px;
+	float:right;
+	margin-right:16px;
+	}
+}
+
 .masthead{
 	height: 65px;
     width: 100%;
-    background-color: #1f1f1f;
     z-index: 300;
     position: fixed;
-    top: 0;
+	top:35px;
+    background: rgba(43,43,43,1);
+	background: -moz-linear-gradient(top, rgba(43,43,43,1) 0%, rgba(0,0,1,1) 100%);
+	background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(43,43,43,1)), color-stop(100%, rgba(0,0,1,1)));
+	background: -webkit-linear-gradient(top, rgba(43,43,43,1) 0%, rgba(0,0,1,1) 100%);
+	background: -o-linear-gradient(top, rgba(43,43,43,1) 0%, rgba(0,0,1,1) 100%);
+	background: -ms-linear-gradient(top, rgba(43,43,43,1) 0%, rgba(0,0,1,1) 100%);
+	background: linear-gradient(to bottom, rgba(43,43,43,1) 0%, rgba(0,0,1,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2b2b2b', endColorstr='#000001', GradientType=0 );
 }
 
 .subnav{
-	height: 45px;
+	height: 64px;
     width: 100%;
-    background-color: rgba(0,0,0,.8);
+    background-color: rgba(31,31,31,.85);
     z-index: 200;
     position: fixed;
-    top: 65px;
+    top: 99px;
 }
 
 body{
@@ -281,6 +302,7 @@ padding:16px;
     float: left;
 }
 
+
 .menu-icon{
 	    width: 2em;
     margin-right: 8px;
@@ -413,6 +435,7 @@ padding:16px;
 	height:50%;
 	float:left;
 	margin-right:32px;
+	margin-left:64px;
 }
 
 .nav-links{
@@ -437,46 +460,175 @@ nav{
 
 form{
 	
-	float:left;
+	float:right;
+}
+
+.search{
+	
+	width: 128px;
+	color:white;
+    margin-left: 16px;
+    margin-right:32px;
+    float:right;
 }
 
 .search input{
 	background-color:rgba(255,255,255,.15);
 	border:none;
-	padding:4px;
-	   width: 350px;
-	   color:white;
-    margin-left: 16px;
+	padding:8px;
+	padding-left:8px;
+	width:100%;
+}
+
+.left-nav{
+	    display: inline-block;
+    float: left;
+    height: 100%;
+}
+
+.account-wrapper{
+	float:right;
+	height:100%;
+}
+
+
+
+.account-icon-wrap{
+	float:right;
+    height: 100%;
+    padding: 8px 16px;
+    text-align: center;
+    position:relative;
+	-webkit-transition: all .25s ease-in-out;
+	-moz-transition: all .25s ease-in-out;
+	-ms-transition: all .25s ease-in-out;
+	-o-transition: all .25s ease-in-out;
+	transition: all .25s ease-in-out;
+    &:hover{
+
+	background-color:#0068bf;
+	.account-icon{
+	opacity:1;
+	}
+	.nav-modal{
+	opacity:1;
+	}
+    }
 }
 
 .account{
 	float:right;
-	height:50%;
+	height:100%;
 	.account-profile{
 	height:100%;
+	float:right;
+	-webkit-transition: all .25s ease-in-out;
+	-moz-transition: all .25s ease-in-out;
+	-ms-transition: all .25s ease-in-out;
+	-o-transition: all .25s ease-in-out;
+	transition: all .25s ease-in-out;
+	&:hover{
+	background-color:#0068bf;
+	}
 	}
 
 	.account-icon{
-	height:65%;
-	margin-right:24px;
+	height:40%;
+	opacity:.5;
+	-webkit-transition: all .25s ease-in-out;
+	-moz-transition: all .25s ease-in-out;
+	-ms-transition: all .25s ease-in-out;
+	-o-transition: all .25s ease-in-out;
+	transition: all .25s ease-in-out;
+	
+	}
+	
+}
+
+  .friends-modal{
+	.modal-row{
+	border-bottom:solid 1pt rgba(255,255,255,.05);
+	}
+}
+
+.nav-modal{
+	background-color:#0068bf;
+	width:256px;
+	position:absolute;
+	top:65px;
+	left:0;
+	opacity:0;
+	padding:8px;
+	-webkit-transition: all .25s ease-in-out;
+	-moz-transition: all .25s ease-in-out;
+	-ms-transition: all .25s ease-in-out;
+	-o-transition: all .25s ease-in-out;
+	transition: all .25s ease-in-out;
+	color:b8babb;
+	.modal-row{
+	border-bottom:solid 1px white;
+    display: inline-block;
+    width: 100%;
+    padding-bottom: 8px;
+    padding-top:8px;
+    strong{
+    color:white;
+    }
+
+	img{
+	width:15%;
+	float:left;
+
+	}
+	p{
+		width:85%;
+		float:left;
+		text-align:left;
+		padding-left:8px;
+		margin-bottom:0;
+		span{
+			font-size:.8em;
+		}
+	}
+
+	}
+
+	.modal-cta{
+	padding-top:8px;
+	color:white;
+    font-family: "sststd-bold";
 	}
 }
 
 .myps{
-	height:35%;
+	height:30%;
 	float:left;
 	margin-right:32px;
+	margin-left:64px;
 }
 
 .sub-head-icon{
-	height:40%;
-	flaot:left;
+	height:25%;
 }
 
+
+
 .subnav{
+ul{
+	margin-top:2px;
+}
 li{
 	font-weight:300;
 	text-transform:none;
+	opacity:.5;
+	-webkit-transition: all .25s ease-in-out;
+-moz-transition: all .25s ease-in-out;
+-ms-transition: all .25s ease-in-out;
+-o-transition: all .25s ease-in-out;
+transition: all .25s ease-in-out;
+	&:hover{
+	opacity:1;
+	}
 }
 	.sub-head-icon{
 	margin-right:8px;
@@ -496,8 +648,10 @@ a, li{
 }
 
 .search-icon{
-	    margin-left: -25px;
     height: 20px;
+    position:absolute;
+    top:8px;
+    right:8px;
 }
 
 .friend-border{
@@ -505,9 +659,10 @@ a, li{
 }
 
 .notification{
-	    width: 20px;
-    margin-left: -30px;
-    margin-top: -20;
+	    width: 18px;
+    position: absolute;
+    top: 10px;
+    right: 4px;
 }
 
 
@@ -527,4 +682,61 @@ a, li{
 	.p{
 	float:left;
 	}
+}
+
+.profile-modal{
+	right:0;
+	left: inherit;
+	text-align:left;
+	color:white;
+	width:164px;
+	.plus{
+	height:16px;
+	}
+	strong{
+		font-size:1.25em;
+		p{
+		margin-bottom:0;
+		}
+	}
+
+	.options{
+	padding-top:8px;
+	padding-bottom:8px;
+	border-top:solid 1px rgba(255,255,255,.25);
+	border-bottom:solid 1px rgba(255,255,255,.25);
+	}
+
+	.avatar{
+	width:20px;
+	float:left;
+	margin-right:8px;
+	}
+}
+
+.personal-trophies{
+float:left;
+.trophy-section{
+	float:left;
+}
+	figure{
+		float:left;
+		color:white;
+		position:relative;
+		margin-right: 16px;
+    	padding-right: 16px;
+		img{
+		float:left;
+		}
+		figcaption{
+		font-size:1.25em;
+		margin-top:30px;
+		float:left;
+
+		}
+	}
+}
+
+.progress-row{
+	float:left;
 }

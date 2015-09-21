@@ -11,7 +11,7 @@ body {
 }
 main {
   position: relative;
-  margin-top: 200px;
+  margin-top: 150px;
   z-index: 100;
   margin-bottom: 200px;
 }
@@ -19,25 +19,12 @@ main {
   background-color: rgba(0, 0, 0, 0.75);
   display: inline-block;
 }
-.sony-header-bar {
-  height: 35px;
-  width: 100%;
-  position: fixed;
-  top: 0;
-  background: black;
-  z-index: 300;
-}
-.sony-header-bar img {
-  height: 35px;
-  float: right;
-  margin-right: 16px;
-}
 .masthead {
   height: 65px;
   width: 100%;
   z-index: 300;
   position: fixed;
-  top: 35px;
+  top: 0;
   background: #2b2b2b;
   background: -moz-linear-gradient(top, #2b2b2b 0%, #000001 100%);
   background: -webkit-gradient(left top, left bottom, color-stop(0%, #2b2b2b), color-stop(100%, #000001));
@@ -48,12 +35,12 @@ main {
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#2b2b2b', endColorstr='#000001', GradientType=0);
 }
 .subnav {
-  height: 64px;
+  height: 45px;
   width: 100%;
-  background-color: rgba(31, 31, 31, 0.85);
+  background-color: rgba(0, 0, 0, 0.8);
   z-index: 200;
   position: fixed;
-  top: 99px;
+  top: 65px;
 }
 .content {
   margin-bottom: 30px;
@@ -358,7 +345,7 @@ h1 {
   height: 50%;
   float: left;
   margin-right: 32px;
-  margin-left: 64px;
+  margin-left: 32px;
 }
 .nav-links {
   padding: 0;
@@ -377,148 +364,39 @@ nav .container {
   height: 100%;
 }
 form {
-  float: right;
-}
-.search {
-  width: 128px;
-  color: white;
-  margin-left: 16px;
-  margin-right: 32px;
-  float: right;
+  float: left;
 }
 .search input {
   background-color: rgba(255, 255, 255, 0.15);
   border: none;
-  padding: 8px;
-  padding-left: 8px;
-  width: 100%;
-}
-.left-nav {
-  display: inline-block;
-  float: left;
-  height: 100%;
-}
-.account-wrapper {
-  float: right;
-  height: 100%;
-}
-.account-icon-wrap {
-  float: right;
-  height: 100%;
-  padding: 8px 16px;
-  text-align: center;
-  position: relative;
-  -webkit-transition: all 0.25s ease-in-out;
-  -moz-transition: all 0.25s ease-in-out;
-  -ms-transition: all 0.25s ease-in-out;
-  -o-transition: all 0.25s ease-in-out;
-  transition: all 0.25s ease-in-out;
-}
-.account-icon-wrap:hover {
-  background-color: #0068bf;
-}
-.account-icon-wrap:hover .account-icon {
-  opacity: 1;
-}
-.account-icon-wrap:hover .nav-modal {
-  opacity: 1;
+  padding: 4px;
+  width: 350px;
+  color: white;
+  margin-left: 16px;
 }
 .account {
   float: right;
-  height: 100%;
+  height: 50%;
 }
 .account .account-profile {
   height: 100%;
-  float: right;
-  -webkit-transition: all 0.25s ease-in-out;
-  -moz-transition: all 0.25s ease-in-out;
-  -ms-transition: all 0.25s ease-in-out;
-  -o-transition: all 0.25s ease-in-out;
-  transition: all 0.25s ease-in-out;
-}
-.account .account-profile:hover {
-  background-color: #0068bf;
 }
 .account .account-icon {
-  height: 40%;
-  opacity: .5;
-  -webkit-transition: all 0.25s ease-in-out;
-  -moz-transition: all 0.25s ease-in-out;
-  -ms-transition: all 0.25s ease-in-out;
-  -o-transition: all 0.25s ease-in-out;
-  transition: all 0.25s ease-in-out;
-}
-.friends-modal .modal-row {
-  border-bottom: solid 1pt rgba(255, 255, 255, 0.05);
-}
-.nav-modal {
-  background-color: #0068bf;
-  width: 256px;
-  position: absolute;
-  top: 65px;
-  left: 0;
-  opacity: 0;
-  padding: 8px;
-  -webkit-transition: all 0.25s ease-in-out;
-  -moz-transition: all 0.25s ease-in-out;
-  -ms-transition: all 0.25s ease-in-out;
-  -o-transition: all 0.25s ease-in-out;
-  transition: all 0.25s ease-in-out;
-  color: b8babb;
-}
-.nav-modal .modal-row {
-  border-bottom: solid 1px white;
-  display: inline-block;
-  width: 100%;
-  padding-bottom: 8px;
-  padding-top: 8px;
-}
-.nav-modal .modal-row strong {
-  color: white;
-}
-.nav-modal .modal-row img {
-  width: 15%;
-  float: left;
-}
-.nav-modal .modal-row p {
-  width: 85%;
-  float: left;
-  text-align: left;
-  padding-left: 8px;
-  margin-bottom: 0;
-}
-.nav-modal .modal-row p span {
-  font-size: .8em;
-}
-.nav-modal .modal-cta {
-  padding-top: 8px;
-  color: white;
-  font-family: "sststd-bold";
+  height: 65%;
+  margin-right: 24px;
 }
 .myps {
-  height: 30%;
+  height: 35%;
   float: left;
   margin-right: 32px;
-  margin-left: 64px;
 }
 .sub-head-icon {
-  height: 25%;
-}
-.subnav ul {
-  margin-top: 2px;
+  height: 40%;
+  flaot: left;
 }
 .subnav li {
   font-weight: 300;
   text-transform: none;
-  opacity: .5;
-  -webkit-transition: all 0.25s ease-in-out;
-  -moz-transition: all 0.25s ease-in-out;
-  -ms-transition: all 0.25s ease-in-out;
-  -o-transition: all 0.25s ease-in-out;
-  transition: all 0.25s ease-in-out;
-}
-.subnav li:hover {
-  opacity: 1;
 }
 .subnav .sub-head-icon {
   margin-right: 8px;
@@ -534,19 +412,16 @@ li {
   cursor: pointer;
 }
 .search-icon {
+  margin-left: -25px;
   height: 20px;
-  position: absolute;
-  top: 8px;
-  right: 8px;
 }
 .friend-border {
   border-bottom: solid 1px rgba(255, 255, 255, 0.5);
 }
 .notification {
-  width: 18px;
-  position: absolute;
-  top: 10px;
-  right: 4px;
+  width: 20px;
+  margin-left: -30px;
+  margin-top: -20;
 }
 .dialogue {
   width: 300px;
@@ -559,56 +434,5 @@ li {
   float: left;
 }
 .message-row .p {
-  float: left;
-}
-.profile-modal {
-  right: 0;
-  left: inherit;
-  text-align: left;
-  color: white;
-  width: 164px;
-}
-.profile-modal .plus {
-  height: 16px;
-}
-.profile-modal strong {
-  font-size: 1.25em;
-}
-.profile-modal strong p {
-  margin-bottom: 0;
-}
-.profile-modal .options {
-  padding-top: 8px;
-  padding-bottom: 8px;
-  border-top: solid 1px rgba(255, 255, 255, 0.25);
-  border-bottom: solid 1px rgba(255, 255, 255, 0.25);
-}
-.profile-modal .avatar {
-  width: 20px;
-  float: left;
-  margin-right: 8px;
-}
-.personal-trophies {
-  float: left;
-}
-.personal-trophies .trophy-section {
-  float: left;
-}
-.personal-trophies figure {
-  float: left;
-  color: white;
-  position: relative;
-  margin-right: 16px;
-  padding-right: 16px;
-}
-.personal-trophies figure img {
-  float: left;
-}
-.personal-trophies figure figcaption {
-  font-size: 1.25em;
-  margin-top: 30px;
-  float: left;
-}
-.progress-row {
   float: left;
 }
