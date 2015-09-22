@@ -385,6 +385,17 @@ form {
   margin-left: 16px;
   margin-right: 32px;
   float: right;
+  -webkit-transition: all 0.25s ease-in-out;
+  -moz-transition: all 0.25s ease-in-out;
+  -ms-transition: all 0.25s ease-in-out;
+  -o-transition: all 0.25s ease-in-out;
+  transition: all 0.25s ease-in-out;
+}
+.search:hover {
+  width: 450px;
+}
+.search:hover + .account-wrapper {
+  opacity: 0;
 }
 .search input {
   background-color: rgba(255, 255, 255, 0.15);
@@ -401,6 +412,11 @@ form {
 .account-wrapper {
   float: right;
   height: 100%;
+  -webkit-transition: all 0.25s ease-in-out;
+  -moz-transition: all 0.25s ease-in-out;
+  -ms-transition: all 0.25s ease-in-out;
+  -o-transition: all 0.25s ease-in-out;
+  transition: all 0.25s ease-in-out;
 }
 .account-icon-wrap {
   float: right;
@@ -566,7 +582,7 @@ li {
   left: inherit;
   text-align: left;
   color: white;
-  width: 164px;
+  width: 220px;
 }
 .profile-modal .plus {
   height: 16px;
@@ -611,4 +627,12 @@ li {
 }
 .progress-row {
   float: left;
+}
+.list-id {
+  color: white;
+  font-size: 1.75em;
+}
+.list-id-img {
+  height: 20px;
+  width: auto !important;
 }

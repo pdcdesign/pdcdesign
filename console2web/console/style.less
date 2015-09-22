@@ -470,6 +470,17 @@ form{
     margin-left: 16px;
     margin-right:32px;
     float:right;
+    	-webkit-transition: all .25s ease-in-out;
+	-moz-transition: all .25s ease-in-out;
+	-ms-transition: all .25s ease-in-out;
+	-o-transition: all .25s ease-in-out;
+	transition: all .25s ease-in-out;
+    &:hover{
+    width:450px;
+    + .account-wrapper{
+    opacity:0;
+    }
+    }
 }
 
 .search input{
@@ -489,6 +500,11 @@ form{
 .account-wrapper{
 	float:right;
 	height:100%;
+		-webkit-transition: all .25s ease-in-out;
+	-moz-transition: all .25s ease-in-out;
+	-ms-transition: all .25s ease-in-out;
+	-o-transition: all .25s ease-in-out;
+	transition: all .25s ease-in-out;
 }
 
 
@@ -689,7 +705,7 @@ a, li{
 	left: inherit;
 	text-align:left;
 	color:white;
-	width:164px;
+	width:220px;
 	.plus{
 	height:16px;
 	}
@@ -739,4 +755,14 @@ float:left;
 
 .progress-row{
 	float:left;
+}
+
+.list-id{
+	color:white;
+	font-size:1.75em;
+}
+
+.list-id-img{
+	height:20px;
+	width:auto !important;
 }

@@ -167,6 +167,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/console2web\/console\/friends.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/console2web\/console\/friends.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/console2web\/console\/img\/A-MI-SU.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -548,6 +557,50 @@
 		"initialSize": 120476,
 		"inputAbbreviatedPath": "\/_site\/console2web\/console\/img\/kungfury.png",
 		"outputAbbreviatedPath": "\/_site\/console2web\/console\/img\/kungfury.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/console2web\/console\/img\/list1d1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15768,
+		"inputAbbreviatedPath": "\/_site\/console2web\/console\/img\/list1d1.png",
+		"outputAbbreviatedPath": "\/_site\/console2web\/console\/img\/list1d1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/console2web\/console\/img\/listid2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19483,
+		"inputAbbreviatedPath": "\/_site\/console2web\/console\/img\/listid2.png",
+		"outputAbbreviatedPath": "\/_site\/console2web\/console\/img\/listid2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/console2web\/console\/img\/listid3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25755,
+		"inputAbbreviatedPath": "\/_site\/console2web\/console\/img\/listid3.png",
+		"outputAbbreviatedPath": "\/_site\/console2web\/console\/img\/listid3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/console2web\/console\/img\/listid4.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34592,
+		"inputAbbreviatedPath": "\/_site\/console2web\/console\/img\/listid4.png",
+		"outputAbbreviatedPath": "\/_site\/console2web\/console\/img\/listid4.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1018,6 +1071,15 @@
 		"strictImports": 0,
 		"strictMath": 0,
 		"strictUnits": 0
+		},
+	"\/_site\/console2web\/console\/trophies.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/console2web\/console\/trophies.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/_site\/console2web\/console\/wow.min.js": {
 		"fileType": 64,
@@ -1669,6 +1731,50 @@
 		"initialSize": 120476,
 		"inputAbbreviatedPath": "\/console2web\/console\/img\/kungfury.png",
 		"outputAbbreviatedPath": "\/console2web\/console\/img\/kungfury.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/console2web\/console\/img\/list1d1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15768,
+		"inputAbbreviatedPath": "\/console2web\/console\/img\/list1d1.png",
+		"outputAbbreviatedPath": "\/console2web\/console\/img\/list1d1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/console2web\/console\/img\/listid2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19483,
+		"inputAbbreviatedPath": "\/console2web\/console\/img\/listid2.png",
+		"outputAbbreviatedPath": "\/console2web\/console\/img\/listid2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/console2web\/console\/img\/listid3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25755,
+		"inputAbbreviatedPath": "\/console2web\/console\/img\/listid3.png",
+		"outputAbbreviatedPath": "\/console2web\/console\/img\/listid3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/console2web\/console\/img\/listid4.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34592,
+		"inputAbbreviatedPath": "\/console2web\/console\/img\/listid4.png",
+		"outputAbbreviatedPath": "\/console2web\/console\/img\/listid4.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
