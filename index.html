@@ -58,6 +58,25 @@
                         </a>
                     {% endfor %}
 			</section>
+				<section>
+				<h2>Weekly Updates</h2>
+					{% for post in site.categories['weeklyupdates'] %}
+                        <a href="{{ post.url | prepend: site.baseurl }}">
+                            <span>
+                                <h3>{{ post.title }}</h3>
+                            </span> 
+                        </a>
+                    {% endfor %}
+			</section>
+			<h2>Components</h2>
+					{% for post in site.categories['components'] %}
+                        <a href="{{ post.url | prepend: site.baseurl }}">
+                            <span>
+                                <h3>{{ post.title }}</h3>
+                            </span> 
+                        </a>
+                    {% endfor %}
+			</section>
 			
 			<footer>
 			<h3>made with <img src="img/coffee.svg" class="coffee"> at playstation.</h3>
