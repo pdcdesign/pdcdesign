@@ -1,0 +1,155 @@
+<html>
+	<head>
+
+		<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-7s5uDGW3AHqw6xtJmNNtr+OBRJUlgkNJEo78P4b0yRw= sha512-nNo+yCHEyn0smMxSswnf/OnX6/KwJuZTlNZBjauKhTK0c+zT+q5JOCx0UFhXQ6rJR9jg6Es8gPuD2uZcYDLqSw==" crossorigin="anonymous">
+		
+		<style>
+
+			/* Custom, iPhone Retina */ 
+	    @media only screen and (min-width : 320px) {
+	        .container{
+			width:100%;
+			 overflow-x:scroll;
+    		overflow-y:hidden;
+			}
+
+			.products{
+				white-space:nowrap;
+				overflow:auto;
+				width:100%;
+				padding-right:10px;
+				
+			}
+
+			.product-list{
+				white-space:nowrap;
+				display: inline-flex;
+				padding:0;
+			}
+			.product{
+				height:130px;
+				width:130px;
+				background:gray;
+				margin:5px;
+				float:left;
+				position:relative;
+			}
+			.product img{
+						width:100%;
+					}
+
+			.product-container{
+				padding-right:0;
+			}
+
+			.friend-tag{
+				position:absolute;
+				bottom:0;
+				background:yellow;
+			}
+	    }
+
+
+
+	    section{
+	    	margin-bottom:15px;
+	    }
+
+	    /* Extra Small Devices, Phones */ 
+	    @media only screen and (min-width : 480px) {
+
+	    }
+
+	    /* Small Devices, Tablets */
+	    @media only screen and (min-width : 768px) {
+
+	    }
+
+	    /* Medium Devices, Desktops */
+	    @media only screen and (min-width : 992px) {
+	    		.product{
+					height:150px;
+					width: 250px;
+					overflow:hidden;
+					background:gray;
+				}
+				section{
+					margin-bottom:50px;
+				}
+
+
+	    }
+
+	    /* Large Devices, Wide Screens */
+	    @media only screen and (min-width : 1200px) {
+	    	.product{
+					height:150px;
+					width: 250px;
+					background:gray;
+				}
+				section{
+					margin-bottom:50px;
+				}
+	    }
+
+		
+		</style>
+	</head>
+
+	
+		
+		<div class="container product-container">
+		<section>
+			<h3>New Releases</h3>
+			<div class="products">
+				<ul class="product-list">
+					<li class="product"><img src="games/1.jpeg"></li>
+					<li class="product"><img src="games/2.jpeg"></li>
+					<li class="product"><img src="games/3.jpeg"></li>
+					<li class="product"><img src="games/4.jpeg"></li>
+					<li class="product"><img src="games/5.jpeg"></li>
+					<li class="product"><img src="games/6.jpeg"></li>
+					<li class="product"><img src="games/7.jpeg"></li>
+					<li class="product"><img src="games/8.jpeg"></li>
+					<li class="product"><img src="games/9.jpeg"></li>
+					<li class="product">view all</li>
+				</ul>
+			</div>
+		</section>
+		<section>
+			<h3>Top Games</h3>
+			<div class="products">
+				<ul class="product-list">
+					<li class="product"><img src="games/6.jpeg"></li>
+					<li class="product"><img src="games/7.jpeg"></li>
+					<li class="product"><img src="games/8.jpeg"></li>
+					<li class="product"><img src="games/9.jpeg"></li>
+					<li class="product"><img src="games/10.jpeg"></li>
+					<li class="product"><img src="games/11.jpeg"></li>
+					<li class="product"><img src="games/12.jpeg"></li>
+					<li class="product"><img src="games/13.jpeg"></li>
+					<li class="product"><img src="games/14.jpeg"></li>
+					<li class="product">view all</li>
+				</ul>
+			</div>
+		</section>
+		<section>
+			<h3>Popular On Your Network</h3>
+			<div class="products">
+				<ul class="product-list">
+					<li class="product"> <div class="friend-tag">20 friends</div> <img src="games/7.jpeg"></li>
+					<li class="product"> <div class="friend-tag">17 friends</div> <img src="games/8.jpeg"></li>
+					<li class="product"> <div class="friend-tag">14 friends</div> <img src="games/9.jpeg"></li>
+					<li class="product"> <div class="friend-tag">12 friends</div> <img src="games/10.jpeg"></li>
+					<li class="product"> <div class="friend-tag">7 friends</div> <img src="games/11.jpeg"></li>
+					<li class="product"> <div class="friend-tag">5 friends</div> <img src="games/12.jpeg"></li>
+					<li class="product"> <div class="friend-tag">4 friends</div> <img src="games/13.jpeg"></li>
+					<li class="product"> <div class="friend-tag">3 friends</div> <img src="games/14.jpeg"></li>
+					<li class="product"> <div class="friend-tag">3 friends</div> <img src="games/1.jpeg"></li>
+					<li class="product">view all</li>
+				</ul>
+			</div>
+		</section>
+		</div>
+	</section>
+</html>
