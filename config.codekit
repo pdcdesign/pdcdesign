@@ -1,6 +1,6 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "19051",
+"creatorBuild": "19102",
 "files": {
 	"\/_includes\/footer.html": {
 		"fileType": 8192,
@@ -2630,6 +2630,169 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/coverflow\/games\/1.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 71604,
+		"inputAbbreviatedPath": "\/coverflow\/games\/1.jpeg",
+		"outputAbbreviatedPath": "\/coverflow\/games\/1.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/coverflow\/games\/10.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 58271,
+		"inputAbbreviatedPath": "\/coverflow\/games\/10.jpeg",
+		"outputAbbreviatedPath": "\/coverflow\/games\/10.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/coverflow\/games\/11.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 100421,
+		"inputAbbreviatedPath": "\/coverflow\/games\/11.jpeg",
+		"outputAbbreviatedPath": "\/coverflow\/games\/11.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/coverflow\/games\/12.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 63813,
+		"inputAbbreviatedPath": "\/coverflow\/games\/12.jpeg",
+		"outputAbbreviatedPath": "\/coverflow\/games\/12.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/coverflow\/games\/13.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 53034,
+		"inputAbbreviatedPath": "\/coverflow\/games\/13.jpeg",
+		"outputAbbreviatedPath": "\/coverflow\/games\/13.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/coverflow\/games\/14.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 59056,
+		"inputAbbreviatedPath": "\/coverflow\/games\/14.jpeg",
+		"outputAbbreviatedPath": "\/coverflow\/games\/14.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/coverflow\/games\/2.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 69260,
+		"inputAbbreviatedPath": "\/coverflow\/games\/2.jpeg",
+		"outputAbbreviatedPath": "\/coverflow\/games\/2.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/coverflow\/games\/3.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 78207,
+		"inputAbbreviatedPath": "\/coverflow\/games\/3.jpeg",
+		"outputAbbreviatedPath": "\/coverflow\/games\/3.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/coverflow\/games\/4.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 80714,
+		"inputAbbreviatedPath": "\/coverflow\/games\/4.jpeg",
+		"outputAbbreviatedPath": "\/coverflow\/games\/4.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/coverflow\/games\/5.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 93680,
+		"inputAbbreviatedPath": "\/coverflow\/games\/5.jpeg",
+		"outputAbbreviatedPath": "\/coverflow\/games\/5.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/coverflow\/games\/6.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 63482,
+		"inputAbbreviatedPath": "\/coverflow\/games\/6.jpeg",
+		"outputAbbreviatedPath": "\/coverflow\/games\/6.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/coverflow\/games\/7.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 45000,
+		"inputAbbreviatedPath": "\/coverflow\/games\/7.jpeg",
+		"outputAbbreviatedPath": "\/coverflow\/games\/7.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/coverflow\/games\/8.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 61794,
+		"inputAbbreviatedPath": "\/coverflow\/games\/8.jpeg",
+		"outputAbbreviatedPath": "\/coverflow\/games\/8.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/coverflow\/games\/9.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 77208,
+		"inputAbbreviatedPath": "\/coverflow\/games\/9.jpeg",
+		"outputAbbreviatedPath": "\/coverflow\/games\/9.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/coverflow\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/coverflow\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/css\/components.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
@@ -3149,8 +3312,16 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"no_nested_string_interpolation": {
+			"active": 1,
+			"flagValue": -1
+			},
 		"no_plusplus": {
 			"active": 0,
+			"flagValue": -1
+			},
+		"no_private_function_fat_arrows": {
+			"active": 1,
 			"flagValue": -1
 			},
 		"no_stand_alone_at": {
@@ -3159,6 +3330,10 @@
 			},
 		"no_tabs": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"no_this": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"no_throwing_strings": {
@@ -3675,7 +3850,9 @@
 	"typescriptAutoOutputPathStyle": 2,
 	"typescriptCreateDeclarationFile": 0,
 	"typescriptCreateSourceMap": 0,
+	"typescriptJSXMode": 0,
 	"typescriptMinifyOutput": 0,
+	"typescriptModuleResolutionType": 0,
 	"typescriptModuleType": 0,
 	"typescriptNoImplicitAny": 0,
 	"typescriptPreserveConstEnums": 0,

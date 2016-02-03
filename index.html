@@ -37,46 +37,7 @@
 				</div>
 			</header>
 		<main class="container">
-			<section>
-				<h2>Blog Posts</h2>
-					{% for post in site.categories['blog'] %}
-                        <a href="{{ post.url | prepend: site.baseurl }}">
-                            <span>
-                                <h3>{{ post.title }}</h3>
-                                <h4><img src="img/time.svg" class="coffee"> {{ post.readTime}} minute read
-                            </span> 
-                        </a>
-                    {% endfor %}
-			</section>
-			<section>
-				<h2>Demos</h2>
-					{% for post in site.categories['demos'] %}
-                        <a href="{{ post.url | prepend: site.baseurl }}">
-                            <span>
-                                <h3>{{ post.title }}</h3>
-                            </span> 
-                        </a>
-                    {% endfor %}
-			</section>
-				<section>
-				<h2>Weekly Updates</h2>
-					{% for post in site.categories['weeklyupdates'] %}
-                        <a href="{{ post.url | prepend: site.baseurl }}">
-                            <span>
-                                <h3>{{ post.title }}</h3>
-                            </span> 
-                        </a>
-                    {% endfor %}
-			</section>
-			<h2>Components</h2>
-					{% for post in site.categories['components'] %}
-                        <a href="{{ post.url | prepend: site.baseurl }}">
-                            <span>
-                                <h3>{{ post.title }}</h3>
-                            </span> 
-                        </a>
-                    {% endfor %}
-			</section>
+			
 			
 			<footer>
 			<h3>made with <img src="img/coffee.svg" class="coffee"> at playstation.</h3>
