@@ -3264,6 +3264,24 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-00-brand-colors\/00-atoms-01-global-00-brand-colors.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-00-brand-colors\/00-atoms-01-global-00-brand-colors.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-00-brand-colors\/00-atoms-01-global-00-brand-colors.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-00-brand-colors\/00-atoms-01-global-00-brand-colors.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-00-colors\/00-atoms-01-global-00-colors.escaped.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -3278,6 +3296,42 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-00-colors\/00-atoms-01-global-00-colors.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-004-brand-colors\/00-atoms-01-global-004-brand-colors.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-004-brand-colors\/00-atoms-01-global-004-brand-colors.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-004-brand-colors\/00-atoms-01-global-004-brand-colors.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-004-brand-colors\/00-atoms-01-global-004-brand-colors.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-004-legacy-web-colors\/00-atoms-01-global-004-legacy-web-colors.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-004-legacy-web-colors\/00-atoms-01-global-004-legacy-web-colors.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-004-legacy-web-colors\/00-atoms-01-global-004-legacy-web-colors.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-004-legacy-web-colors\/00-atoms-01-global-004-legacy-web-colors.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -3300,6 +3354,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-01-legacy-web-colors\/00-atoms-01-global-01-legacy-web-colors.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-01-legacy-web-colors\/00-atoms-01-global-01-legacy-web-colors.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-01-legacy-web-colors\/00-atoms-01-global-01-legacy-web-colors.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-01-legacy-web-colors\/00-atoms-01-global-01-legacy-web-colors.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-02-animations\/00-atoms-01-global-02-animations.escaped.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -3318,6 +3390,42 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-02-fonts\/00-atoms-01-global-02-fonts.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-02-fonts\/00-atoms-01-global-02-fonts.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-02-fonts\/00-atoms-01-global-02-fonts.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-02-fonts\/00-atoms-01-global-02-fonts.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-03-animations\/00-atoms-01-global-03-animations.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-03-animations\/00-atoms-01-global-03-animations.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-03-animations\/00-atoms-01-global-03-animations.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-03-animations\/00-atoms-01-global-03-animations.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-03-visibility\/00-atoms-01-global-03-visibility.escaped.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -3332,6 +3440,24 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-03-visibility\/00-atoms-01-global-03-visibility.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-04-visibility\/00-atoms-01-global-04-visibility.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-04-visibility\/00-atoms-01-global-04-visibility.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-04-visibility\/00-atoms-01-global-04-visibility.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-04-visibility\/00-atoms-01-global-04-visibility.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -3579,6 +3705,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-01-wordmark\/00-atoms-04-images-01-wordmark.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-01-wordmark\/00-atoms-04-images-01-wordmark.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-01-wordmark\/00-atoms-04-images-01-wordmark.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-01-wordmark\/00-atoms-04-images-01-wordmark.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-02-landscape-16x9\/00-atoms-04-images-02-landscape-16x9.escaped.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -3593,6 +3737,42 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-02-landscape-16x9\/00-atoms-04-images-02-landscape-16x9.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-02-landscape-4x3\/00-atoms-04-images-02-landscape-4x3.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-02-landscape-4x3\/00-atoms-04-images-02-landscape-4x3.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-02-landscape-4x3\/00-atoms-04-images-02-landscape-4x3.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-02-landscape-4x3\/00-atoms-04-images-02-landscape-4x3.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-03-landscape-16x9\/00-atoms-04-images-03-landscape-16x9.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-03-landscape-16x9\/00-atoms-04-images-03-landscape-16x9.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-03-landscape-16x9\/00-atoms-04-images-03-landscape-16x9.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-03-landscape-16x9\/00-atoms-04-images-03-landscape-16x9.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -3633,6 +3813,42 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-04-square\/00-atoms-04-images-04-square.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-04-square\/00-atoms-04-images-04-square.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-04-square\/00-atoms-04-images-04-square.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-04-square\/00-atoms-04-images-04-square.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-05-avatar\/00-atoms-04-images-05-avatar.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-05-avatar\/00-atoms-04-images-05-avatar.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-05-avatar\/00-atoms-04-images-05-avatar.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-05-avatar\/00-atoms-04-images-05-avatar.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-05-icons\/00-atoms-04-images-05-icons.escaped.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -3647,6 +3863,24 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-05-icons\/00-atoms-04-images-05-icons.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-06-icons\/00-atoms-04-images-06-icons.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-06-icons\/00-atoms-04-images-06-icons.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-06-icons\/00-atoms-04-images-06-icons.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-06-icons\/00-atoms-04-images-06-icons.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -3683,6 +3917,60 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-07-favicon\/00-atoms-04-images-07-favicon.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-07-loading-icon\/00-atoms-04-images-07-loading-icon.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-07-loading-icon\/00-atoms-04-images-07-loading-icon.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-07-loading-icon\/00-atoms-04-images-07-loading-icon.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-07-loading-icon\/00-atoms-04-images-07-loading-icon.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-08-favicon\/00-atoms-04-images-08-favicon.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-08-favicon\/00-atoms-04-images-08-favicon.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-08-favicon\/00-atoms-04-images-08-favicon.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-08-favicon\/00-atoms-04-images-08-favicon.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-08-wordmark\/00-atoms-04-images-08-wordmark.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-08-wordmark\/00-atoms-04-images-08-wordmark.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-08-wordmark\/00-atoms-04-images-08-wordmark.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-08-wordmark\/00-atoms-04-images-08-wordmark.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -8987,6 +9275,24 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-00-brand-colors\/00-atoms-01-global-00-brand-colors.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-00-brand-colors\/00-atoms-01-global-00-brand-colors.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-00-brand-colors\/00-atoms-01-global-00-brand-colors.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-00-brand-colors\/00-atoms-01-global-00-brand-colors.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-00-colors\/00-atoms-01-global-00-colors.escaped.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -9001,6 +9307,42 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-00-colors\/00-atoms-01-global-00-colors.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-004-brand-colors\/00-atoms-01-global-004-brand-colors.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-004-brand-colors\/00-atoms-01-global-004-brand-colors.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-004-brand-colors\/00-atoms-01-global-004-brand-colors.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-004-brand-colors\/00-atoms-01-global-004-brand-colors.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-004-legacy-web-colors\/00-atoms-01-global-004-legacy-web-colors.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-004-legacy-web-colors\/00-atoms-01-global-004-legacy-web-colors.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-004-legacy-web-colors\/00-atoms-01-global-004-legacy-web-colors.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-004-legacy-web-colors\/00-atoms-01-global-004-legacy-web-colors.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -9023,6 +9365,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-01-legacy-web-colors\/00-atoms-01-global-01-legacy-web-colors.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-01-legacy-web-colors\/00-atoms-01-global-01-legacy-web-colors.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-01-legacy-web-colors\/00-atoms-01-global-01-legacy-web-colors.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-01-legacy-web-colors\/00-atoms-01-global-01-legacy-web-colors.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-02-animations\/00-atoms-01-global-02-animations.escaped.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -9041,6 +9401,42 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-02-fonts\/00-atoms-01-global-02-fonts.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-02-fonts\/00-atoms-01-global-02-fonts.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-02-fonts\/00-atoms-01-global-02-fonts.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-02-fonts\/00-atoms-01-global-02-fonts.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-03-animations\/00-atoms-01-global-03-animations.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-03-animations\/00-atoms-01-global-03-animations.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-03-animations\/00-atoms-01-global-03-animations.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-03-animations\/00-atoms-01-global-03-animations.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-03-visibility\/00-atoms-01-global-03-visibility.escaped.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -9055,6 +9451,24 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-03-visibility\/00-atoms-01-global-03-visibility.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-04-visibility\/00-atoms-01-global-04-visibility.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-04-visibility\/00-atoms-01-global-04-visibility.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-04-visibility\/00-atoms-01-global-04-visibility.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/patternlab-php-master\/public\/patterns\/00-atoms-01-global-04-visibility\/00-atoms-01-global-04-visibility.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -9302,6 +9716,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-01-wordmark\/00-atoms-04-images-01-wordmark.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-01-wordmark\/00-atoms-04-images-01-wordmark.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-01-wordmark\/00-atoms-04-images-01-wordmark.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-01-wordmark\/00-atoms-04-images-01-wordmark.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-02-landscape-16x9\/00-atoms-04-images-02-landscape-16x9.escaped.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -9316,6 +9748,42 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-02-landscape-16x9\/00-atoms-04-images-02-landscape-16x9.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-02-landscape-4x3\/00-atoms-04-images-02-landscape-4x3.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-02-landscape-4x3\/00-atoms-04-images-02-landscape-4x3.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-02-landscape-4x3\/00-atoms-04-images-02-landscape-4x3.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-02-landscape-4x3\/00-atoms-04-images-02-landscape-4x3.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-03-landscape-16x9\/00-atoms-04-images-03-landscape-16x9.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-03-landscape-16x9\/00-atoms-04-images-03-landscape-16x9.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-03-landscape-16x9\/00-atoms-04-images-03-landscape-16x9.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-03-landscape-16x9\/00-atoms-04-images-03-landscape-16x9.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -9356,6 +9824,42 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-04-square\/00-atoms-04-images-04-square.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-04-square\/00-atoms-04-images-04-square.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-04-square\/00-atoms-04-images-04-square.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-04-square\/00-atoms-04-images-04-square.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-05-avatar\/00-atoms-04-images-05-avatar.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-05-avatar\/00-atoms-04-images-05-avatar.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-05-avatar\/00-atoms-04-images-05-avatar.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-05-avatar\/00-atoms-04-images-05-avatar.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-05-icons\/00-atoms-04-images-05-icons.escaped.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -9370,6 +9874,24 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-05-icons\/00-atoms-04-images-05-icons.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-06-icons\/00-atoms-04-images-06-icons.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-06-icons\/00-atoms-04-images-06-icons.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-06-icons\/00-atoms-04-images-06-icons.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-06-icons\/00-atoms-04-images-06-icons.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -9406,6 +9928,60 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-07-favicon\/00-atoms-04-images-07-favicon.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-07-loading-icon\/00-atoms-04-images-07-loading-icon.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-07-loading-icon\/00-atoms-04-images-07-loading-icon.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-07-loading-icon\/00-atoms-04-images-07-loading-icon.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-07-loading-icon\/00-atoms-04-images-07-loading-icon.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-08-favicon\/00-atoms-04-images-08-favicon.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-08-favicon\/00-atoms-04-images-08-favicon.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-08-favicon\/00-atoms-04-images-08-favicon.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-08-favicon\/00-atoms-04-images-08-favicon.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-08-wordmark\/00-atoms-04-images-08-wordmark.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-08-wordmark\/00-atoms-04-images-08-wordmark.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-08-wordmark\/00-atoms-04-images-08-wordmark.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/patternlab-php-master\/public\/patterns\/00-atoms-04-images-08-wordmark\/00-atoms-04-images-08-wordmark.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0

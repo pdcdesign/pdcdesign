@@ -2785,6 +2785,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/public\/patterns\/00-atoms-04-images-08-wordmark\/00-atoms-04-images-08-wordmark.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-04-images-08-wordmark\/00-atoms-04-images-08-wordmark.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-04-images-08-wordmark\/00-atoms-04-images-08-wordmark.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-04-images-08-wordmark\/00-atoms-04-images-08-wordmark.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/public\/patterns\/00-atoms-04-images\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
