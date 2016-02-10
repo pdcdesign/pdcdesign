@@ -6675,6 +6675,15 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/hero\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/hero\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/hero\/jquery.parallax.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -6685,6 +6694,28 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
+		},
+	"\/hero\/kat.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 158424,
+		"inputAbbreviatedPath": "\/hero\/kat.png",
+		"outputAbbreviatedPath": "\/hero\/kat.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/hero\/logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14267,
+		"inputAbbreviatedPath": "\/hero\/logo.png",
+		"outputAbbreviatedPath": "\/hero\/logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/hero\/parallax.js": {
 		"fileType": 64,

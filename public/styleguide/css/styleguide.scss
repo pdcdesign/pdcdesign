@@ -71,6 +71,7 @@ $sg-pad-half : $sg-pad/2;
 
 /* Dimensions */
 $offset-top: 2em;
+$viewport-top: 5em;
 
 /* Breakpoints */
 $sg-bp-small : 24em;
@@ -528,7 +529,7 @@ span.sg-pattern-state:before {
 	text-align: center;
 	width: 100%;
 	position: fixed;
-	top: $offset-top;
+	top: $viewport-top;
 	bottom: 0;
 	left: 0;
 	right: 0;
