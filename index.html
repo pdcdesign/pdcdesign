@@ -1,50 +1,86 @@
----
----
 <html>
+
 	<head>
-	
-	<!--BOOTSTRAP-->
-	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-MfvZlkHCEqatNoGiOXveE8FIwMzZg4W85qfrfIFBfYc= sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
+		<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-7s5uDGW3AHqw6xtJmNNtr+OBRJUlgkNJEo78P4b0yRw= sha512-nNo+yCHEyn0smMxSswnf/OnX6/KwJuZTlNZBjauKhTK0c+zT+q5JOCx0UFhXQ6rJR9jg6Es8gPuD2uZcYDLqSw==" crossorigin="anonymous">
 
-	<style>
-	.coffee{
-		height:1em;
-	}
-	header{
-		background-image:url('img/flow.jpg');
-		padding:50px 0;
-		background-size:cover;
-		background-position:center;
-	}
+		<style>
+		body{
+			height:100%;
+		}
+			header{
+				width:100%;
+				padding:20px 0 40px;
+				box-sizing:content-box;
+			}
 
-	h1{
-		color:white;
-		font-weight:900;
-		padding:20px;
-		background-color:rgba(0,0,0,.9);
-		float:left;
-	}
+			header img{
+				position:relative;
+				left:20px;
+				height:40px;
 
-	footer{
-		margin-top:64px;
+			}
+
+			.gray-wrap p{
+				text-align:center;
+				margin-top:36px;
+				font-size:1.5em;
+			}
+
+			.gray-wrap{
+				background-color:#eeeeee;
+				padding-top:100px;
+				padding-bottom:100px;
+				display:block;
+			}
+			footer{
+				padding:20px;
+				color:white;
+				text-align:center;
+				background:black;
+				font-size:.8em;
+				}
+
+				.button-row{
+					width:100%;
+					text-align:center;
+					display:inline-block;
+				}
+
+				.button{
+					color:white;
+					background:black;
+					display:inline-block;
+					padding:10 20px;
+					margin:15px;
+				}
+
+	footer img{
+		height:15px;
+		margin-left:3px;
+		margin-right:2px;
 	}
-	</style>
+		</style>
 	</head>
 	<body>
-			<header>
+		<header>
+			<img src="patternlablogo.svg">
+		</header>
+		<div class="gray-wrap">
 			<div class="container">
-				<h1>Design @ PlayStation.com</h1>
-				</div>
-			</header>
-		<main class="container">
-			<a href="patternlab-php-master/public/index.html">
-				Pattern Lab
-			</a>
-			
-			<footer>
-			<h3>made with <img src="img/coffee.svg" class="coffee"> at playstation.</h3>
-			</footer>
-		</main>
+			<div class="col-lg-6 col-lg-offset-3">
+				<img src="prealpha.svg">
+				<p>
+				A design resource for PlayStation.com
+				</p>
+				<span class="button-row">
+				<span class="button">templates</span> <a href="public/index.html"><span class="button">pattern library</span></a>
+				</span>
+			</div>
+			</div>
+		</div>
+		<footer>
+			<p> Made with <img src="coffee.svg"> at PlayStation HQ</p>
+		</footer>
 
 	</body>
 </html>
