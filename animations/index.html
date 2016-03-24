@@ -7,12 +7,18 @@
 		<script src="wow.min.js"></script>
 	</head>
 	<body>
-		<h1 class="center">Animation Demos</h1>
+	<section class="intro" style="height:100%">
+		<h1 class="center" >
+			Animation Demos
+		</h1>
+			<h3 class="center">Scroll Down to begin</h3>
+	</section>
+
 		<section id="gravityrush-hero">
 			<div class="hero">
 				<div class="container" style="height:100%; position:relative">
-				<img class="col-md-6 logo animated fadeInUp" src="assets/gravityrush/logo.png">
-				<img class="col-md-6  kat animated fadeInDown" src="assets/gravityrush/katcat.png" >
+				<img class="col-md-6 logo wow fadeInUp" data-wow-offset="100" src="assets/gravityrush/logo.png">
+				<img class="col-md-6  kat wow fadeInDown" src="assets/gravityrush/katcat.png" >
 				</div>
 			</div>
 		</section>
@@ -42,7 +48,7 @@
 
 
 			<section id="gravityrush-two-column" class="col-md-6 col-md-offset-3 gravityRushPerspectiveWrapper" style="-webkit-perspective: 450px;">
-				<img class="col-md-8 col-md-offset-2 foreground-img wow fadeInUp" src="assets/gravityrush/katcat.png" style="position:absolute; top:-150px;">
+				<img class="col-md-8 col-md-offset-2 foreground-img wow fadeInUpSmall" src="assets/gravityrush/katcat.png" style="position:absolute; top:-150px;">
 				<img class="img-responsive bg-img gravityRushPerspectiveImg" src="assets/gravityrush/smallbg.jpg" style="-webkit-transform: rotateX(45deg);"">
 			</section>
 
@@ -52,7 +58,16 @@
 
 <!-- JS -->
  <script>
-              new WOW().init();
-              </script>
+     wow = new WOW(
+                      {
+                      boxClass:     'wow',      // default
+                      animateClass: 'animated', // default
+                      offset:       320,          // default
+                      mobile:       true,       // default
+                      live:         true        // default
+                    }
+                    )
+                    wow.init();
+  </script>
 	</body>
 </html>
