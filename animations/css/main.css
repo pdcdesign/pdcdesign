@@ -1,8 +1,9 @@
 body {
-  margin: 0 0 100px 0; }
+  margin: 0 0 100px 0;
+  font-family: sans-serif; }
 
 h1 {
-  margin-top: 100px; }
+  margin-top: 0px; }
 
 .center {
   text-align: center; }
@@ -2315,3 +2316,10 @@ animated3 {
 .gravityRushPerspectiveWrapper {
   -webkit-animation-name: gravityRushPerspectiveWrapper;
   animation-name: gravityRushPerspectiveWrapper; }
+
+.title-stuff {
+  position: relative;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%); }
