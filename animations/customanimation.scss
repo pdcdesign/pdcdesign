@@ -1,0 +1,23 @@
+
+@-webkit-keyframes gravityRushPerspectiveImg {
+  0%   { -webkit-transform: rotateX(0); /* Chrome, Safari, Opera  */
+   		 }
+
+  100% { -webkit-transform: rotateX(45deg); /* Chrome, Safari, Opera  */
+   		 }
+}
+
+.gravityRushPerspectiveImg {
+  -webkit-animation-name: gravityRushPerspectiveImg;
+  animation-name: gravityRushPerspectiveImg;
+}
+
+@-webkit-keyframes gravityRushPerspectiveWrapper {
+  0%   { -webkit-perspective: 0px; /* Chrome, Safari, Opera  */ }
+  100% { -webkit-perspective: 150px; /* Chrome, Safari, Opera  */ }
+}
+
+.gravityRushPerspectiveWrapper {
+  -webkit-animation-name: gravityRushPerspectiveWrapper;
+  animation-name: gravityRushPerspectiveWrapper;
+}
