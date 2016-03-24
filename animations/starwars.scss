@@ -1,0 +1,33 @@
+#starwars-step{
+	background-image: url('assets/starwars/jakku.jpeg');
+	display: inline-block;
+    width: 100%;
+    background-size:cover;
+    position:relative;
+
+    h3{
+    color:#0068bf;
+    font-family: "adelle",Georgia;
+    font-size: 28px;
+    font-style: italic;
+    margin-bottom:0;
+    margin-bottom:10px;
+    }
+
+    h2{
+    color:white;
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom:35px;
+    
+    }
+
+    p{
+    	color:white;
+    	    font-size: 18px;
+    		line-height: 1.5em;
+        font-family: 'helvetica neue';
+    font-weight: 300;
+    }
+}
+

@@ -26,8 +26,32 @@ section {
   position: absolute;
   z-index: 10; }
 
+.step {
+  height: 60px;
+  width: 130px;
+  background: white;
+  position: absolute; }
+
+.top {
+  top: 0; }
+
+.right {
+  right: 0; }
+
+.bottom {
+  bottom: 0; }
+
+.left {
+  left: 0; }
+
+.text-wrap {
+  padding: 20px 40px; }
+
+.black {
+  background: rgba(0, 0, 0, 0.85); }
+
 #gravityrush-hero .hero {
-  background-image: url("../assets/gravityrush/bg.jpg"); }
+  background-image: url("assets/gravityrush/bg.jpg"); }
   #gravityrush-hero .hero .logo {
     position: absolute;
     bottom: 5%; }
@@ -2324,5 +2348,32 @@ animated3 {
   -ms-transform: translateY(-50%);
   transform: translateY(-50%); }
 
+.halftone {
+  height: 100%;
+  width: 100%;
+  background-image: url("assets/halftone.jpeg"); }
+
 #starwars-step {
-  background-image: url("/assets/starwars/jakku.jpg"); }
+  background-image: url("assets/starwars/jakku.jpeg");
+  display: inline-block;
+  width: 100%;
+  background-size: cover;
+  position: relative; }
+  #starwars-step h3 {
+    color: #0068bf;
+    font-family: "adelle",Georgia;
+    font-size: 28px;
+    font-style: italic;
+    margin-bottom: 0;
+    margin-bottom: 10px; }
+  #starwars-step h2 {
+    color: white;
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 35px; }
+  #starwars-step p {
+    color: white;
+    font-size: 18px;
+    line-height: 1.5em;
+    font-family: 'helvetica neue';
+    font-weight: 300; }

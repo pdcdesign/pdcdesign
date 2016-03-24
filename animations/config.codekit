@@ -73,6 +73,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/halftone.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20842,
+		"inputAbbreviatedPath": "\/assets\/halftone.jpeg",
+		"outputAbbreviatedPath": "\/assets\/halftone.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/starwars\/jakku.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 231935,
+		"inputAbbreviatedPath": "\/assets\/starwars\/jakku.jpeg",
+		"outputAbbreviatedPath": "\/assets\/starwars\/jakku.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/starwars\/stormtrooper.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 302856,
+		"inputAbbreviatedPath": "\/assets\/starwars\/stormtrooper.png",
+		"outputAbbreviatedPath": "\/assets\/starwars\/stormtrooper.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/streetfighter\/chunlee.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -214,6 +247,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/main.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/main.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/main.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -222,9 +264,9 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/main.scss",
-		"outputAbbreviatedPath": "\/css\/main.css",
+		"outputAbbreviatedPath": "\/main.css",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
+		"outputPathIsSetByUser": 1,
 		"outputStyle": 0,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
@@ -255,6 +297,22 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/page.scss",
 		"outputAbbreviatedPath": "\/css\/page.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/starwars.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/starwars.scss",
+		"outputAbbreviatedPath": "\/css\/starwars.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,

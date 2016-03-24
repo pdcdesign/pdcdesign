@@ -1,3 +1,9 @@
 .title-stuff{
 	 @include vertical-align();
 }
+
+.halftone{
+	height:100%;
+	width:100%;
+	background-image:url('assets/halftone.jpeg');
+}

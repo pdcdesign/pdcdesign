@@ -33,3 +33,35 @@ section{
 	position:absolute;
 	z-index:10;
 }
+
+.step{
+	height:60px;
+	width:130px;
+	background:white;
+	position:absolute;
+}
+
+.top{
+	top:0
+}
+
+.right{
+	right:0;
+}
+
+.bottom{
+	bottom:0;
+}
+
+.left{
+	left:0;
+}
+
+.text-wrap{
+	    padding: 20px 40px;
+
+}
+
+.black{
+	background:rgba(0,0,0,.85);
+}
