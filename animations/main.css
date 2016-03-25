@@ -45,7 +45,7 @@ section {
   left: 0; }
 
 .text-wrap {
-  padding: 20px 40px; }
+  padding: 20px 40px 40px 40px; }
 
 .black {
   background: rgba(0, 0, 0, 0.85); }
@@ -2373,7 +2373,7 @@ animated3 {
     margin-bottom: 35px; }
   #starwars-step p {
     color: white;
-    font-size: 18px;
+    font-size: 16px;
     line-height: 1.5em;
     font-family: 'helvetica neue';
     font-weight: 300; }
