@@ -1,0 +1,7 @@
+#mobile-character-select {
+  background-image: url("assets/herobg.jpg");
+  background-size: cover; }
+  #mobile-character-select figure {
+    margin: 0 !important; }
+    #mobile-character-select figure img {
+      width: 100%; }
