@@ -1,3 +1,8 @@
+
+#character-details{
+	width:100%;
+	overflow-x:hidden;
+	}
 .character-detail{
 	margin-bottom:100px;
 	.character-art{
@@ -216,9 +221,8 @@
 			 
 			.accordion {
 			    overflow:hidden;
-			    box-shadow:0px 1px 3px rgba(0,0,0,0.25);
 			    border-radius:3px;
-			    background:#f7f7f7;
+			    background:$dark-gray;
 			}
 			 
 			/*----- Section Titles -----*/
@@ -226,17 +230,13 @@
 			    width:100%;
 			    padding:15px;
 			    display:inline-block;
-			    border-bottom:1px solid #1a1a1a;
-			    background:#333;
 			    transition:all linear 0.15s;
 			    /* Type */
 			    font-size:1.200em;
-			    text-shadow:0px 1px 0px #1a1a1a;
 			    color:#fff;
 			}
 			 
 			.accordion-section-title.active, .accordion-section-title:hover {
-			    background:#4c4c4c;
 			    /* Type */
 			    text-decoration:none;
 			}
@@ -249,6 +249,29 @@
 			.accordion-section-content {
 			    padding:15px;
 			    display:none;
+			}
+
+
+			.abilities{
+				.ability{
+				width:100%;
+					figure{
+					width:100%;
+					margin:0;
+					display:inline-block;
+							.ability-icon{
+								width:10%;
+								float:left;
+								
+								}
+							figcaption{
+								float:left;
+							}
+					
+				}
+				}
+				
+				
 			}
 
 
