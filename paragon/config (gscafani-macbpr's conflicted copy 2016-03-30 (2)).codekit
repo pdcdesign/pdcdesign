@@ -7,7 +7,7 @@
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/animate.scss",
 		"outputAbbreviatedPath": "\/css\/animate.css",
@@ -36,6 +36,17 @@
 		"initialSize": 630651,
 		"inputAbbreviatedPath": "\/assets\/dekker-cutout.png",
 		"outputAbbreviatedPath": "\/assets\/dekker-cutout.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/dekker-hero.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 88212,
+		"inputAbbreviatedPath": "\/assets\/dekker-hero.jpg",
+		"outputAbbreviatedPath": "\/assets\/dekker-hero.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -73,6 +84,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/fengmao-hero.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 64433,
+		"inputAbbreviatedPath": "\/assets\/fengmao-hero.jpg",
+		"outputAbbreviatedPath": "\/assets\/fengmao-hero.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/fengmao-thumb.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -102,6 +124,17 @@
 		"initialSize": 480242,
 		"inputAbbreviatedPath": "\/assets\/gadget-cutout.png",
 		"outputAbbreviatedPath": "\/assets\/gadget-cutout.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/gadget-hero.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50531,
+		"inputAbbreviatedPath": "\/assets\/gadget-hero.jpg",
+		"outputAbbreviatedPath": "\/assets\/gadget-hero.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -139,6 +172,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/gideon-hero.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50023,
+		"inputAbbreviatedPath": "\/assets\/gideon-hero.jpg",
+		"outputAbbreviatedPath": "\/assets\/gideon-hero.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/gideon-thumb.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -168,6 +212,17 @@
 		"initialSize": 550852,
 		"inputAbbreviatedPath": "\/assets\/grux-cutout.png",
 		"outputAbbreviatedPath": "\/assets\/grux-cutout.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/grux-hero.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 78393,
+		"inputAbbreviatedPath": "\/assets\/grux-hero.jpg",
+		"outputAbbreviatedPath": "\/assets\/grux-hero.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -489,6 +544,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/css\/hero.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/hero.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/css\/main.css": {
 		"fileType": 16,
 		"ignore": 1,
@@ -516,11 +580,56 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/hero.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/hero.scss",
+		"outputAbbreviatedPath": "\/css\/hero.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
 	"\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/jquery.flexslider-min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/jquery.flexslider-min.js",
+		"outputAbbreviatedPath": "\/min\/jquery.flexslider-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/main (garrett’s iMac's conflicted copy 2016-03-30).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/main (garrett’s iMac's conflicted copy 2016-03-30).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/main (gscafani-macbpr's conflicted copy 2016-03-30).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/main (gscafani-macbpr's conflicted copy 2016-03-30).css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -623,7 +732,7 @@
 	},
 "hooks": [
 	],
-"lastSavedByUser": "garrett scafani",
+"lastSavedByUser": "Scafani, Garrett",
 "manualImportLinks": {
 	},
 "projectAttributes": {

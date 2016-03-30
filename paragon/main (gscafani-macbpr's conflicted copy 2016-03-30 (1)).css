@@ -7,24 +7,6 @@ body {
 .img-responsive {
   width: 100%; }
 
-.step {
-  background: white;
-  height: 60px;
-  width: 170px;
-  position: absolute; }
-
-.top {
-  top: 0; }
-
-.bottom {
-  bottom: 0; }
-
-.left {
-  left: 0; }
-
-.right {
-  right: 0; }
-
 /*==========  Mobile First Method  ==========*/
 /* Custom, iPhone Retina */
 @media only screen and (min-width: 320px) {
@@ -59,9 +41,6 @@ body {
   #mobile-character-select {
     display: none; } }
 /* Medium Devices, Desktops */
-@media only screen and (min-width: 992px) {
-  .intro-text {
-    text-align: left; } }
 /* Large Devices, Wide Screens */
 /*==========  Mobile First Method  ==========*/
 /* Custom, iPhone Retina */
@@ -248,9 +227,6 @@ body {
 /* Extra Small Devices, Phones */
 /* Small Devices, Tablets */
 /* Medium Devices, Desktops */
-@media only screen and (min-width: 992px) {
-  #character-details {
-    display: none; } }
 /* Large Devices, Wide Screens */
 /*!
  * animate.css -http://daneden.me/animate
@@ -2490,135 +2466,26 @@ animated3 {
   -webkit-animation-name: slideOutUp;
   animation-name: slideOutUp; }
 
-/*==========  Mobile First Method  ==========*/
-/* Custom, iPhone Retina */
-@media only screen and (min-width: 320px) {
-  #large-character-detail {
-    display: none; } }
-/* Extra Small Devices, Phones */
-/* Small Devices, Tablets */
-@media only screen and (min-width: 768px) {
-  #large-character-detail {
-    display: inline-block;
+#hero {
+  width: 100%; }
+  #hero .flexslider {
     width: 100%; }
-    #large-character-detail article {
-      width: 100%; }
-      #large-character-detail article .lg-art-container {
-        width: 100%;
-        position: relative; }
-      #large-character-detail article .lg-abilities {
-        padding: 100px; }
-
-  #dekker-lg-detail .lg-art-container {
-    background-image: url("assets/dekker-bg.jpg");
-    background-size: cover; }
-    #dekker-lg-detail .lg-art-container #dekker-cutout-lg {
-      width: 50%; }
-
-  #fengmao-lg-detail .lg-art-container {
-    background-image: url("assets/fengmao-bg.jpg");
-    background-size: cover; }
-    #fengmao-lg-detail .lg-art-container #fengmao-cutout-lg {
-      width: 70%; }
-
-  #gideon-lg-detail .lg-art-container {
-    background-image: url("assets/gideon-bg.jpg");
-    background-size: cover; }
-    #gideon-lg-detail .lg-art-container #gideon-cutout-lg {
-      width: 25%; }
-
-  #grux-lg-detail .lg-art-container {
-    background-image: url("assets/grux-bg.jpg");
-    background-size: cover; }
-    #grux-lg-detail .lg-art-container #grux-cutout-lg {
-      width: 75%; }
-
-  #kallari-lg-detail .lg-art-container {
-    background-image: url("assets/kallari-bg.jpg");
-    background-size: cover; }
-    #kallari-lg-detail .lg-art-container #kallari-cutout-lg {
-      width: 50%; }
-
-  #howitzer-lg-detail .lg-art-container {
-    background-image: url("assets/howitzer-bg.jpg");
-    background-size: cover; }
-    #howitzer-lg-detail .lg-art-container #howtizer-cutout-lg {
-      width: 50%; }
-
-  #gadget-lg-detail .lg-art-container {
-    background-image: url("assets/gadget-bg.jpg");
-    background-size: cover; }
-    #gadget-lg-detail .lg-art-container #gadget-cutout-lg {
-      width: 25%; }
-
-  #murdock-lg-detail .lg-art-container {
-    background-image: url("assets/murdock-bg.jpg");
-    background-size: cover; }
-    #murdock-lg-detail .lg-art-container #murdock-cutout-lg {
-      width: 25%; }
-
-  #muriel-lg-detail .lg-art-container {
-    background-image: url("assets/muriel-bg.jpg");
-    background-size: cover; }
-    #muriel-lg-detail .lg-art-container #muriel-cutout-lg {
-      width: 25%; }
-
-  #rampage-lg-detail .lg-art-container {
-    background-image: url("assets/rampage-bg.jpg");
-    background-size: cover; }
-    #rampage-lg-detail .lg-art-container #rampage-cutout-lg {
-      width: 25%; }
-
-  #sparrow-lg-detail .lg-art-container {
-    background-image: url("assets/sparrow-bg.jpg");
-    background-size: cover; }
-    #sparrow-lg-detail .lg-art-container #sparrow-cutout-lg {
-      width: 25%; }
-
-  #steel-lg-detail .lg-art-container {
-    background-image: url("assets/steel-bg.jpg");
-    background-size: cover; }
-    #steel-lg-detail .lg-art-container #steel-cutout-lg {
-      width: 25%; }
-
-  #twinblast-lg-detail .lg-art-container {
-    background-image: url("assets/twinblast-bg.jpg");
-    background-size: cover; }
-    #twinblast-lg-detail .lg-art-container #twinblast-cutout-lg {
-      width: 25%; } }
-/* Medium Devices, Desktops */
-/* Large Devices, Wide Screens */
-/*==========  Mobile First Method  ==========*/
-/* Custom, iPhone Retina */
-@media only screen and (min-width: 320px) {
-  #hero {
-    display: none; } }
-/* Extra Small Devices, Phones */
-/* Small Devices, Tablets */
-@media only screen and (min-width: 768px) {
-  #hero {
-    display: inline-block;
-    width: 100%; }
-    #hero .flexslider {
-      width: 100%; }
-      #hero .flexslider .slides {
-        width: 100%;
-        padding: 0; }
-        #hero .flexslider .slides li {
+    #hero .flexslider .slides {
+      width: 100%;
+      padding: 0; }
+      #hero .flexslider .slides li {
+        width: 100%; }
+    #hero .flexslider .flex-direction-nav {
+      display: none; }
+    #hero .flexslider .flex-control-thumbs {
+      display: flex;
+      background-image: url("assets/herobg.jpg");
+      background-size: cover;
+      margin: 0;
+      padding: 20px; }
+      #hero .flexslider .flex-control-thumbs li {
+        float: left;
+        flex-grow: 1;
+        padding: 1px; }
+        #hero .flexslider .flex-control-thumbs li img {
           width: 100%; }
-      #hero .flexslider .flex-direction-nav {
-        display: none; }
-      #hero .flexslider .flex-control-thumbs {
-        display: flex;
-        background-image: url("assets/herobg.jpg");
-        background-size: cover;
-        margin: 0;
-        padding: 20px; }
-        #hero .flexslider .flex-control-thumbs li {
-          float: left;
-          flex-grow: 1;
-          padding: 1px; }
-          #hero .flexslider .flex-control-thumbs li img {
-            width: 100%; } }
-/* Medium Devices, Desktops */
-/* Large Devices, Wide Screens */

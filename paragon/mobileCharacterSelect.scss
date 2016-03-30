@@ -1,3 +1,9 @@
+
+/*==========  Mobile First Method  ==========*/
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (min-width : 320px) {
+        
 #mobile-character-select{
 	background-image: url('assets/herobg.jpg');
 	background-size:cover;
@@ -33,3 +39,29 @@
 	text-align:center;
 	padding: 50px 0px 100px 0px;
 }
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (min-width : 480px) {
+
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (min-width : 768px) {
+    	#mobile-character-select{
+    	display:none;
+    	}
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (min-width : 992px) {
+    	.intro-text{
+    		text-align:left;
+    	}
+    }
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (min-width : 1200px) {
+
+    }
+

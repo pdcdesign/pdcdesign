@@ -7,7 +7,7 @@
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/animate.scss",
 		"outputAbbreviatedPath": "\/css\/animate.css",
@@ -36,6 +36,17 @@
 		"initialSize": 630651,
 		"inputAbbreviatedPath": "\/assets\/dekker-cutout.png",
 		"outputAbbreviatedPath": "\/assets\/dekker-cutout.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/dekker-hero.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 88212,
+		"inputAbbreviatedPath": "\/assets\/dekker-hero.jpg",
+		"outputAbbreviatedPath": "\/assets\/dekker-hero.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -73,6 +84,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/fengmao-hero.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 64433,
+		"inputAbbreviatedPath": "\/assets\/fengmao-hero.jpg",
+		"outputAbbreviatedPath": "\/assets\/fengmao-hero.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/fengmao-thumb.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -102,6 +124,17 @@
 		"initialSize": 480242,
 		"inputAbbreviatedPath": "\/assets\/gadget-cutout.png",
 		"outputAbbreviatedPath": "\/assets\/gadget-cutout.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/gadget-hero.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50531,
+		"inputAbbreviatedPath": "\/assets\/gadget-hero.jpg",
+		"outputAbbreviatedPath": "\/assets\/gadget-hero.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -139,6 +172,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/gideon-hero.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50023,
+		"inputAbbreviatedPath": "\/assets\/gideon-hero.jpg",
+		"outputAbbreviatedPath": "\/assets\/gideon-hero.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/gideon-thumb.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -168,6 +212,17 @@
 		"initialSize": 550852,
 		"inputAbbreviatedPath": "\/assets\/grux-cutout.png",
 		"outputAbbreviatedPath": "\/assets\/grux-cutout.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/grux-hero.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 78393,
+		"inputAbbreviatedPath": "\/assets\/grux-hero.jpg",
+		"outputAbbreviatedPath": "\/assets\/grux-hero.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -216,6 +271,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/howitzer-hero.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 69785,
+		"inputAbbreviatedPath": "\/assets\/howitzer-hero.jpg",
+		"outputAbbreviatedPath": "\/assets\/howitzer-hero.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/howitzer-thumb.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -245,6 +311,17 @@
 		"initialSize": 571929,
 		"inputAbbreviatedPath": "\/assets\/kallari-cutout.png",
 		"outputAbbreviatedPath": "\/assets\/kallari-cutout.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/kallari-hero.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 63157,
+		"inputAbbreviatedPath": "\/assets\/kallari-hero.jpg",
+		"outputAbbreviatedPath": "\/assets\/kallari-hero.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -282,6 +359,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/murdock-hero.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 70488,
+		"inputAbbreviatedPath": "\/assets\/murdock-hero.jpg",
+		"outputAbbreviatedPath": "\/assets\/murdock-hero.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/murdock-thumb.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -311,6 +399,17 @@
 		"initialSize": 683894,
 		"inputAbbreviatedPath": "\/assets\/muriel-cutout.png",
 		"outputAbbreviatedPath": "\/assets\/muriel-cutout.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/muriel-hero.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 51616,
+		"inputAbbreviatedPath": "\/assets\/muriel-hero.jpg",
+		"outputAbbreviatedPath": "\/assets\/muriel-hero.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -359,6 +458,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/rampage-hero.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 65674,
+		"inputAbbreviatedPath": "\/assets\/rampage-hero.jpg",
+		"outputAbbreviatedPath": "\/assets\/rampage-hero.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/rampage-thumb.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -388,6 +498,17 @@
 		"initialSize": 359033,
 		"inputAbbreviatedPath": "\/assets\/sparrow-cutout.png",
 		"outputAbbreviatedPath": "\/assets\/sparrow-cutout.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/sparrow-hero.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 65489,
+		"inputAbbreviatedPath": "\/assets\/sparrow-hero.jpg",
+		"outputAbbreviatedPath": "\/assets\/sparrow-hero.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -436,6 +557,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/steel-hero.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 91894,
+		"inputAbbreviatedPath": "\/assets\/steel-hero.jpg",
+		"outputAbbreviatedPath": "\/assets\/steel-hero.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/steel-thumb.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -469,6 +601,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/twinblast-hero.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 51463,
+		"inputAbbreviatedPath": "\/assets\/twinblast-hero.jpg",
+		"outputAbbreviatedPath": "\/assets\/twinblast-hero.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/twinblast-thumb.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -485,6 +628,15 @@
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/css\/animate.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/hero.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/hero.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -516,11 +668,56 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/hero.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/hero.scss",
+		"outputAbbreviatedPath": "\/css\/hero.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
 	"\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/jquery.flexslider-min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/jquery.flexslider-min.js",
+		"outputAbbreviatedPath": "\/min\/jquery.flexslider-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/main (garrett’s iMac's conflicted copy 2016-03-30).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/main (garrett’s iMac's conflicted copy 2016-03-30).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/main (gscafani-macbpr's conflicted copy 2016-03-30).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/main (gscafani-macbpr's conflicted copy 2016-03-30).css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -549,6 +746,17 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
+		},
+	"\/min\/wow.min-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/min\/wow.min-min.js",
+		"outputAbbreviatedPath": "\/min\/min\/wow.min-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
 		},
 	"\/mobileCharacterCard.scss": {
 		"createSourceMap": 0,
@@ -597,11 +805,22 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
+		},
+	"\/wow.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wow.min.js",
+		"outputAbbreviatedPath": "\/min\/wow.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
 		}
 	},
 "hooks": [
 	],
-"lastSavedByUser": "garrett scafani",
+"lastSavedByUser": "Scafani, Garrett",
 "manualImportLinks": {
 	},
 "projectAttributes": {

@@ -1,0 +1,191 @@
+/*==========  Mobile First Method  ==========*/
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (min-width : 320px) {
+        #large-character-detail{
+            display:none;
+        }
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (min-width : 480px) {
+
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (min-width : 768px) {
+        #large-character-detail{
+            display:inline-block;
+            width:100%;
+                article{
+                    width:100%;
+                    .lg-art-container{
+                        width:100%;
+                        position:relative;
+                    }
+
+                    .lg-abilities{
+                    padding:100px;
+                    }
+                }
+        }
+
+
+
+
+
+
+
+
+
+
+
+        #dekker-lg-detail{
+            .lg-art-container{
+                background-image:url('assets/dekker-bg.jpg');
+                background-size:cover;
+                    #dekker-cutout-lg{
+                        width:50%;
+                    }
+            }
+        }
+
+
+
+        #fengmao-lg-detail{
+            .lg-art-container{
+                background-image:url('assets/fengmao-bg.jpg');
+                background-size:cover;
+                    #fengmao-cutout-lg{
+                        width:70%;
+                    }
+            }
+        }
+
+         #gideon-lg-detail{
+            .lg-art-container{
+                background-image:url('assets/gideon-bg.jpg');
+                background-size:cover;
+                    #gideon-cutout-lg{
+                        width:25%;
+                    }
+            }
+        }
+
+        #grux-lg-detail{
+            .lg-art-container{
+                background-image:url('assets/grux-bg.jpg');
+                background-size:cover;
+                    #grux-cutout-lg{
+                        width:75%;
+                    }
+            }
+        }
+
+        #kallari-lg-detail{
+            .lg-art-container{
+                background-image:url('assets/kallari-bg.jpg');
+                background-size:cover;
+                    #kallari-cutout-lg{
+                        width: 50%;
+                    }
+            }
+        }
+
+        #howitzer-lg-detail{
+            .lg-art-container{
+                background-image:url('assets/howitzer-bg.jpg');
+                background-size:cover;
+                    #howtizer-cutout-lg{
+                        width: 50%;
+                    }
+            }
+        }
+
+        #gadget-lg-detail{
+            .lg-art-container{
+                background-image:url('assets/gadget-bg.jpg');
+                background-size:cover;
+                    #gadget-cutout-lg{
+                        width: 25%;
+                    }
+            }
+        }
+
+        #murdock-lg-detail{
+            .lg-art-container{
+                background-image:url('assets/murdock-bg.jpg');
+                background-size:cover;
+                    #murdock-cutout-lg{
+                        width: 25%;
+                    }
+            }
+        }
+
+        #muriel-lg-detail{
+            .lg-art-container{
+                background-image:url('assets/muriel-bg.jpg');
+                background-size:cover;
+                    #muriel-cutout-lg{
+                        width: 25%;
+                    }
+            }
+        }
+
+        #rampage-lg-detail{
+            .lg-art-container{
+                background-image:url('assets/rampage-bg.jpg');
+                background-size:cover;
+                    #rampage-cutout-lg{
+                        width: 25%;
+                    }
+            }
+        }
+
+          #sparrow-lg-detail{
+            .lg-art-container{
+                background-image:url('assets/sparrow-bg.jpg');
+                background-size:cover;
+                    #sparrow-cutout-lg{
+                        width: 25%;
+                    }
+            }
+        }
+
+          #steel-lg-detail{
+            .lg-art-container{
+                background-image:url('assets/steel-bg.jpg');
+                background-size:cover;
+                    #steel-cutout-lg{
+                        width: 25%;
+                    }
+            }
+        }
+
+          #twinblast-lg-detail{
+            .lg-art-container{
+                background-image:url('assets/twinblast-bg.jpg');
+                background-size:cover;
+                    #twinblast-cutout-lg{
+                        width: 25%;
+                    }
+            }
+        }
+    
+
+
+
+
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (min-width : 992px) {
+
+       
+
+    }
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (min-width : 1200px) {
+
+    }

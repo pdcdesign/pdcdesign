@@ -718,7 +718,7 @@
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/largeCharacterDetail.scss",
 		"outputAbbreviatedPath": "\/css\/largeCharacterDetail.css",

@@ -1,4 +1,8 @@
+/*==========  Mobile First Method  ==========*/
 
+    /* Custom, iPhone Retina */ 
+    @media only screen and (min-width : 320px) {
+        
 #character-details{
 	width:100%;
 	overflow-x:hidden;
@@ -291,3 +295,29 @@
 
 
 }
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (min-width : 480px) {
+
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (min-width : 768px) {
+
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (min-width : 992px) {
+    	#character-details{
+			display:none;
+			}
+    }
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (min-width : 1200px) {
+
+    }
+
+
+
