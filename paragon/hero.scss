@@ -19,6 +19,9 @@
 	width:100%;
 		.flexslider{
 			width:100%;
+			.flex-viewport{
+				height:600px;
+			}
 				.slides{
 					width:100%;
 					padding:0;
@@ -35,7 +38,7 @@
 					background-image: url("assets/herobg.jpg");
 					background-size:cover;
 					margin:0;
-					padding: 20px;
+					padding: 20px 80px;
 					li{
 						float:left;
 						flex-grow:1;

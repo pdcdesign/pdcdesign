@@ -22,10 +22,52 @@
                     .lg-art-container{
                         width:100%;
                         position:relative;
+                        overflow:hidden;
+                        padding:150px 0px;
+
+                        .lg-character-info{
+                            background: $dark-gray-transparent;
+                            color:white;
+                            padding:50px;
+                                h2{
+                                    font-size: 2.5em;
+                                    margin-top:0;
+                                }
+
+                                .video-button{
+                                    color:white;
+                                    background:#0070C7;
+                                    padding:20px;
+                                    display:inline-block;
+                                }
+
+                                .row{
+                                    padding:50px 0;
+                                }
+
+                                .stats{
+                                    .stat{
+                                        flex-grow:1;
+                                        text-align:center;
+                                    }
+                                }
+                        }
                     }
 
                     .lg-abilities{
                     padding:100px;
+                    text-align:center;
+                    position:relative;
+                    display:inline-block;
+                    color:white;
+                    background:black;
+                    h5,h4{
+                        color:$gold;
+                    }
+
+                        .ability-icon{
+                            height:50px;
+                        }
                     }
                 }
         }
@@ -46,6 +88,7 @@
                 background-size:cover;
                     #dekker-cutout-lg{
                         width:50%;
+                        position:absolute;
                     }
             }
         }

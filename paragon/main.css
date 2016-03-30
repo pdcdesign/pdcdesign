@@ -1,3 +1,6 @@
+.flex {
+  display: flex; }
+
 body {
   margin: 0;
   font-family: sans-serif;
@@ -8,7 +11,7 @@ body {
   width: 100%; }
 
 .step {
-  background: white;
+  background: black;
   height: 60px;
   width: 170px;
   position: absolute; }
@@ -2505,15 +2508,44 @@ animated3 {
       width: 100%; }
       #large-character-detail article .lg-art-container {
         width: 100%;
-        position: relative; }
+        position: relative;
+        overflow: hidden;
+        padding: 150px 0px; }
+        #large-character-detail article .lg-art-container .lg-character-info {
+          background: rgba(42, 42, 42, 0.9);
+          color: white;
+          padding: 50px; }
+          #large-character-detail article .lg-art-container .lg-character-info h2 {
+            font-size: 2.5em;
+            margin-top: 0; }
+          #large-character-detail article .lg-art-container .lg-character-info .video-button {
+            color: white;
+            background: #0070C7;
+            padding: 20px;
+            display: inline-block; }
+          #large-character-detail article .lg-art-container .lg-character-info .row {
+            padding: 50px 0; }
+          #large-character-detail article .lg-art-container .lg-character-info .stats .stat {
+            flex-grow: 1;
+            text-align: center; }
       #large-character-detail article .lg-abilities {
-        padding: 100px; }
+        padding: 100px;
+        text-align: center;
+        position: relative;
+        display: inline-block;
+        color: white;
+        background: black; }
+        #large-character-detail article .lg-abilities h5, #large-character-detail article .lg-abilities h4 {
+          color: #dbbd68; }
+        #large-character-detail article .lg-abilities .ability-icon {
+          height: 50px; }
 
   #dekker-lg-detail .lg-art-container {
     background-image: url("assets/dekker-bg.jpg");
     background-size: cover; }
     #dekker-lg-detail .lg-art-container #dekker-cutout-lg {
-      width: 50%; }
+      width: 50%;
+      position: absolute; }
 
   #fengmao-lg-detail .lg-art-container {
     background-image: url("assets/fengmao-bg.jpg");
@@ -2601,6 +2633,8 @@ animated3 {
     width: 100%; }
     #hero .flexslider {
       width: 100%; }
+      #hero .flexslider .flex-viewport {
+        height: 600px; }
       #hero .flexslider .slides {
         width: 100%;
         padding: 0; }
@@ -2613,7 +2647,7 @@ animated3 {
         background-image: url("assets/herobg.jpg");
         background-size: cover;
         margin: 0;
-        padding: 20px; }
+        padding: 20px 80px; }
         #hero .flexslider .flex-control-thumbs li {
           float: left;
           flex-grow: 1;

@@ -11,6 +11,8 @@
     width: 100%; }
     #hero .flexslider {
       width: 100%; }
+      #hero .flexslider .flex-viewport {
+        height: 600px; }
       #hero .flexslider .slides {
         width: 100%;
         padding: 0; }
@@ -23,7 +25,7 @@
         background-image: url("assets/herobg.jpg");
         background-size: cover;
         margin: 0;
-        padding: 20px; }
+        padding: 20px 80px; }
         #hero .flexslider .flex-control-thumbs li {
           float: left;
           flex-grow: 1;
