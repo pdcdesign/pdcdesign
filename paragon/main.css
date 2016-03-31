@@ -74,7 +74,8 @@ body {
     overflow-x: hidden; }
 
   .character-detail {
-    margin-bottom: 100px; }
+    margin-bottom: 100px;
+    padding-top: 100px; }
     .character-detail .character-art {
       position: relative;
       /*---- DEKKER ----*/
@@ -2511,6 +2512,10 @@ animated3 {
         position: relative;
         overflow: hidden;
         padding: 150px 0px; }
+        #large-character-detail article .lg-art-container img {
+          position: absolute;
+          bottom: 0;
+          height: 90%; }
         #large-character-detail article .lg-art-container .lg-character-info {
           background: rgba(42, 42, 42, 0.9);
           color: white;
@@ -2529,11 +2534,12 @@ animated3 {
             flex-grow: 1;
             text-align: center; }
       #large-character-detail article .lg-abilities {
-        padding: 100px;
+        padding: 100px 0 200px 0;
         text-align: center;
         position: relative;
         display: inline-block;
         color: white;
+        width: 100%;
         background: black; }
         #large-character-detail article .lg-abilities h5, #large-character-detail article .lg-abilities h4 {
           color: #dbbd68; }
@@ -2544,80 +2550,57 @@ animated3 {
     background-image: url("assets/dekker-bg.jpg");
     background-size: cover; }
     #dekker-lg-detail .lg-art-container #dekker-cutout-lg {
-      width: 50%;
       position: absolute; }
 
   #fengmao-lg-detail .lg-art-container {
     background-image: url("assets/fengmao-bg.jpg");
     background-size: cover; }
     #fengmao-lg-detail .lg-art-container #fengmao-cutout-lg {
-      width: 70%; }
+      right: 0; }
 
   #gideon-lg-detail .lg-art-container {
     background-image: url("assets/gideon-bg.jpg");
     background-size: cover; }
-    #gideon-lg-detail .lg-art-container #gideon-cutout-lg {
-      width: 25%; }
 
   #grux-lg-detail .lg-art-container {
     background-image: url("assets/grux-bg.jpg");
     background-size: cover; }
-    #grux-lg-detail .lg-art-container #grux-cutout-lg {
-      width: 75%; }
 
   #kallari-lg-detail .lg-art-container {
     background-image: url("assets/kallari-bg.jpg");
     background-size: cover; }
-    #kallari-lg-detail .lg-art-container #kallari-cutout-lg {
-      width: 50%; }
 
   #howitzer-lg-detail .lg-art-container {
     background-image: url("assets/howitzer-bg.jpg");
     background-size: cover; }
-    #howitzer-lg-detail .lg-art-container #howtizer-cutout-lg {
-      width: 50%; }
 
   #gadget-lg-detail .lg-art-container {
     background-image: url("assets/gadget-bg.jpg");
     background-size: cover; }
-    #gadget-lg-detail .lg-art-container #gadget-cutout-lg {
-      width: 25%; }
 
   #murdock-lg-detail .lg-art-container {
     background-image: url("assets/murdock-bg.jpg");
     background-size: cover; }
-    #murdock-lg-detail .lg-art-container #murdock-cutout-lg {
-      width: 25%; }
 
   #muriel-lg-detail .lg-art-container {
     background-image: url("assets/muriel-bg.jpg");
     background-size: cover; }
-    #muriel-lg-detail .lg-art-container #muriel-cutout-lg {
-      width: 25%; }
 
   #rampage-lg-detail .lg-art-container {
     background-image: url("assets/rampage-bg.jpg");
     background-size: cover; }
-    #rampage-lg-detail .lg-art-container #rampage-cutout-lg {
-      width: 25%; }
 
   #sparrow-lg-detail .lg-art-container {
     background-image: url("assets/sparrow-bg.jpg");
     background-size: cover; }
-    #sparrow-lg-detail .lg-art-container #sparrow-cutout-lg {
-      width: 25%; }
 
   #steel-lg-detail .lg-art-container {
     background-image: url("assets/steel-bg.jpg");
     background-size: cover; }
-    #steel-lg-detail .lg-art-container #steel-cutout-lg {
-      width: 25%; }
 
   #twinblast-lg-detail .lg-art-container {
     background-image: url("assets/twinblast-bg.jpg");
-    background-size: cover; }
-    #twinblast-lg-detail .lg-art-container #twinblast-cutout-lg {
-      width: 25%; } }
+    background-size: cover; } }
 /* Medium Devices, Desktops */
 /* Large Devices, Wide Screens */
 /*==========  Mobile First Method  ==========*/
@@ -2639,7 +2622,15 @@ animated3 {
         width: 100%;
         padding: 0; }
         #hero .flexslider .slides li {
-          width: 100%; }
+          width: 100%;
+          height: 100%;
+          position: relative; }
+          #hero .flexslider .slides li .hero-info {
+            position: absolute;
+            width: 100%;
+            color: white;
+            text-align: center;
+            bottom: 20%; }
       #hero .flexslider .flex-direction-nav {
         display: none; }
       #hero .flexslider .flex-control-thumbs {
@@ -2648,11 +2639,32 @@ animated3 {
         background-size: cover;
         margin: 0;
         padding: 20px 80px; }
+        #hero .flexslider .flex-control-thumbs:hover > li {
+          opacity: .5; }
+        #hero .flexslider .flex-control-thumbs:hover > li:hover {
+          opacity: 1; }
         #hero .flexslider .flex-control-thumbs li {
+          -webkit-transition: 0.25s;
+          -moz-transition: 0.25s;
+          -ms-transition: 0.25s;
+          -o-transition: 0.25s;
+          transition: 0.25s;
+          box-sizing: border-box;
+          -moz-box-sizing: border-box;
+          -webkit-box-sizing: border-box;
           float: left;
           flex-grow: 1;
-          padding: 1px; }
+          padding: 3px; }
+          #hero .flexslider .flex-control-thumbs li:hover {
+            -webkit-box-shadow: inset 0px 0px 0px 10px #dbbd68;
+            -moz-box-shadow: inset 0px 0px 0px 10px #dbbd68;
+            box-shadow: inset 0px 0px 0px 10px #dbbd68; }
           #hero .flexslider .flex-control-thumbs li img {
-            width: 100%; } }
+            width: 100%; }
+
+  .active-thumb {
+    -webkit-box-shadow: inset 0px 0px 0px 10px #dbbd68;
+    -moz-box-shadow: inset 0px 0px 0px 10px #dbbd68;
+    box-shadow: inset 0px 0px 0px 10px #dbbd68; } }
 /* Medium Devices, Desktops */
 /* Large Devices, Wide Screens */

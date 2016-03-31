@@ -27,6 +27,16 @@
 					padding:0;
 						li{
 							width:100%;
+							height:100%;
+							position:relative;
+
+							.hero-info{
+								position:absolute;
+								width:100%;
+								color:white;
+								text-align:center;
+								bottom:20%;
+							}
 
 						}
 				}
@@ -39,16 +49,40 @@
 					background-size:cover;
 					margin:0;
 					padding: 20px 80px;
+						&:hover > li{
+
+						opacity:.5;
+							
+						}
+
+						&:hover > li:hover{
+						opacity:1;
+						}
 					li{
+						@include transition(.25s);
+						box-sizing: border-box;
+					    -moz-box-sizing: border-box;
+					    -webkit-box-sizing: border-box;
 						float:left;
 						flex-grow:1;
-						padding:1px;
+						padding:3px;
+							&:hover{
+								    -webkit-box-shadow:inset 0px 0px 0px 10px $gold;
+								       -moz-box-shadow:inset 0px 0px 0px 10px $gold;
+								            box-shadow:inset 0px 0px 0px 10px $gold;
+							}
 							img{
 								width:100%;
 							}
 					}
 				}
 		}
+}
+
+.active-thumb{
+	-webkit-box-shadow:inset 0px 0px 0px 10px $gold;
+								       -moz-box-shadow:inset 0px 0px 0px 10px $gold;
+								            box-shadow:inset 0px 0px 0px 10px $gold;
 }
     }
 
