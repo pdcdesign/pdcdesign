@@ -2142,7 +2142,7 @@
  				<div class="step top left"></div>
  					<img id="howitzer-cutout-lg" class="wow fadeInLeft" src="assets/howitzer-cutout.png">
  					<div class="container">
-	 					<div class="col-md-5 col-md-offset-1 pull-right wow fadeInUp lg-character-info">
+	 					<div class="col-md-5 wow fadeInUp lg-character-info">
 	 						<h2>Dekker</h2>
 	 						<h4>Clarity in chaos</h4>
 	 						<div class="video-button">video</div>
@@ -2534,7 +2534,7 @@
  				<div class="step top left"></div>
  					<img id="rampage-cutout-lg" class="wow fadeInLeft" src="assets/rampage-cutout.png">
  					<div class="container">
-	 					<div class="col-md-5 col-md-offset-1 pull-right wow fadeInUp lg-character-info">
+	 					<div class="col-md-5  wow fadeInUp lg-character-info">
 	 						<h2>Dekker</h2>
 	 						<h4>Clarity in chaos</h4>
 	 						<div class="video-button">video</div>
@@ -2730,7 +2730,7 @@
  				<div class="step top left"></div>
  					<img id="steel-cutout-lg" class="wow fadeInLeft" src="assets/steel-cutout.png">
  					<div class="container">
-	 					<div class="col-md-5 col-md-offset-1 pull-right wow fadeInUp lg-character-info">
+	 					<div class="col-md-5  wow fadeInUp lg-character-info">
 	 						<h2>Dekker</h2>
 	 						<h4>Clarity in chaos</h4>
 	 						<div class="video-button">video</div>
@@ -2986,6 +2986,23 @@ $(window).load(function() {
  
         e.preventDefault();
     });
+});
+</script>
+
+<script>
+	$(function() {
+  $('a[href*="#"]:not([href="#"])').click(function() {
+    if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+      var target = $(this.hash);
+      target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+      if (target.length) {
+        $('html, body').animate({
+          scrollTop: target.offset().top
+        }, 1000);
+        return false;
+      }
+    }
+  });
 });
 </script>
 	</body>

@@ -16,11 +16,12 @@
     @media only screen and (min-width : 768px) {
     	#hero{
     	display:inline-block;
+    	margin-top: -16px;
 	width:100%;
 		.flexslider{
 			width:100%;
 			.flex-viewport{
-				height:600px;
+				height:60%;
 			}
 				.slides{
 					width:100%;

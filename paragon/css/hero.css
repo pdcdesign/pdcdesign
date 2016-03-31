@@ -1,23 +1,23 @@
 /*
 Error: Undefined mixin 'transition'.
-        on line 62 of /Users/gscafani/Dropbox/projects/playstation/paragon/paragon/hero.scss, in `transition'
-        from line 62 of /Users/gscafani/Dropbox/projects/playstation/paragon/paragon/hero.scss
+        on line 63 of /Users/gscafani/Dropbox/projects/playstation/paragon/paragon/hero.scss, in `transition'
+        from line 63 of /Users/gscafani/Dropbox/projects/playstation/paragon/paragon/hero.scss
 
-57: 
-58: 						&:hover > li:hover{
-59: 						opacity:1;
-60: 						}
-61: 					li{
-62: 						@include transition(.25s);
-63: 						box-sizing: border-box;
-64: 					    -moz-box-sizing: border-box;
-65: 					    -webkit-box-sizing: border-box;
-66: 						float:left;
-67: 						flex-grow:1;
+58: 
+59: 						&:hover > li:hover{
+60: 						opacity:1;
+61: 						}
+62: 					li{
+63: 						@include transition(.25s);
+64: 						box-sizing: border-box;
+65: 					    -moz-box-sizing: border-box;
+66: 					    -webkit-box-sizing: border-box;
+67: 						float:left;
+68: 						flex-grow:1;
 
 Backtrace:
-/Users/gscafani/Dropbox/projects/playstation/paragon/paragon/hero.scss:62:in `transition'
-/Users/gscafani/Dropbox/projects/playstation/paragon/paragon/hero.scss:62
+/Users/gscafani/Dropbox/projects/playstation/paragon/paragon/hero.scss:63:in `transition'
+/Users/gscafani/Dropbox/projects/playstation/paragon/paragon/hero.scss:63
 /Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/perform.rb:349:in `block in visit_mixin'
 /Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/stack.rb:98:in `block in with_mixin'
 /Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/stack.rb:115:in `with_frame'
@@ -110,4 +110,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined mixin 'transition'.\A         on line 62 of /Users/gscafani/Dropbox/projects/playstation/paragon/paragon/hero.scss, in `transition'\A         from line 62 of /Users/gscafani/Dropbox/projects/playstation/paragon/paragon/hero.scss\A \A 57: \A 58: 						&:hover > li:hover{\A 59: 						opacity:1;\A 60: 						}\A 61: 					li{\A 62: 						@include transition(.25s);\A 63: 						box-sizing: border-box;\A 64: 					    -moz-box-sizing: border-box;\A 65: 					    -webkit-box-sizing: border-box;\A 66: 						float:left;\A 67: 						flex-grow:1;"; }
+  content: "Error: Undefined mixin 'transition'.\A         on line 63 of /Users/gscafani/Dropbox/projects/playstation/paragon/paragon/hero.scss, in `transition'\A         from line 63 of /Users/gscafani/Dropbox/projects/playstation/paragon/paragon/hero.scss\A \A 58: \A 59: 						&:hover > li:hover{\A 60: 						opacity:1;\A 61: 						}\A 62: 					li{\A 63: 						@include transition(.25s);\A 64: 						box-sizing: border-box;\A 65: 					    -moz-box-sizing: border-box;\A 66: 					    -webkit-box-sizing: border-box;\A 67: 						float:left;\A 68: 						flex-grow:1;"; }

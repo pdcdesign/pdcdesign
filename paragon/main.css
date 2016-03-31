@@ -36,7 +36,7 @@ body {
     background-size: cover;
     background-position: top center;
     padding-top: 150px;
-    padding-bottom: 15px; }
+    padding-bottom: 60px; }
     #mobile-character-select .character-thumb {
       padding: 3px; }
     #mobile-character-select figure {
@@ -227,6 +227,7 @@ body {
         padding: 15px;
         display: inline-block;
         transition: all linear 0.15s;
+        text-align: center;
         /* Type */
         font-size: 1.200em;
         color: #fff; }
@@ -239,16 +240,28 @@ body {
         padding: 15px;
         display: none; }
       .character-detail .character-details .abilities .ability {
-        width: 100%; }
+        width: 100%;
+        margin-bottom: 50px; }
         .character-detail .character-details .abilities .ability figure {
           width: 100%;
           margin: 0;
-          display: inline-block; }
+          display: flex;
+          -ms-flex-align: center;
+          -webkit-align-items: center;
+          -webkit-box-align: center;
+          align-items: center; }
           .character-detail .character-details .abilities .ability figure .ability-icon {
-            width: 10%;
+            width: 9%;
             float: left; }
           .character-detail .character-details .abilities .ability figure figcaption {
-            float: left; } }
+            float: left;
+            margin-left: 15px;
+            color: #dbbd68; }
+            .character-detail .character-details .abilities .ability figure figcaption h5 {
+              margin: 0; }
+            .character-detail .character-details .abilities .ability figure figcaption h4 {
+              margin-top: 8px;
+              margin-bottom: 0; } }
 /* Extra Small Devices, Phones */
 /* Small Devices, Tablets */
 /* Medium Devices, Desktops */
@@ -2543,6 +2556,10 @@ animated3 {
         background: black; }
         #large-character-detail article .lg-abilities h5, #large-character-detail article .lg-abilities h4 {
           color: #dbbd68; }
+        #large-character-detail article .lg-abilities h5 {
+          margin-bottom: 5px; }
+        #large-character-detail article .lg-abilities h4 {
+          margin-top: 0; }
         #large-character-detail article .lg-abilities .ability-icon {
           height: 50px; }
 
@@ -2550,7 +2567,7 @@ animated3 {
     background-image: url("assets/dekker-bg.jpg");
     background-size: cover; }
     #dekker-lg-detail .lg-art-container #dekker-cutout-lg {
-      position: absolute; }
+      left: 10%; }
 
   #fengmao-lg-detail .lg-art-container {
     background-image: url("assets/fengmao-bg.jpg");
@@ -2561,6 +2578,8 @@ animated3 {
   #gideon-lg-detail .lg-art-container {
     background-image: url("assets/gideon-bg.jpg");
     background-size: cover; }
+    #gideon-lg-detail .lg-art-container #gideon-cutout-lg {
+      left: 20%; }
 
   #grux-lg-detail .lg-art-container {
     background-image: url("assets/grux-bg.jpg");
@@ -2573,22 +2592,32 @@ animated3 {
   #howitzer-lg-detail .lg-art-container {
     background-image: url("assets/howitzer-bg.jpg");
     background-size: cover; }
+    #howitzer-lg-detail .lg-art-container #howitzer-cutout-lg {
+      right: 0; }
 
   #gadget-lg-detail .lg-art-container {
     background-image: url("assets/gadget-bg.jpg");
     background-size: cover; }
+    #gadget-lg-detail .lg-art-container #gadget-cutout-lg {
+      left: 15%; }
 
   #murdock-lg-detail .lg-art-container {
     background-image: url("assets/murdock-bg.jpg");
     background-size: cover; }
+    #murdock-lg-detail .lg-art-container #murdock-cutout-lg {
+      left: 15%; }
 
   #muriel-lg-detail .lg-art-container {
     background-image: url("assets/muriel-bg.jpg");
     background-size: cover; }
+    #muriel-lg-detail .lg-art-container #muriel-cutout-lg {
+      left: 10%; }
 
   #rampage-lg-detail .lg-art-container {
     background-image: url("assets/rampage-bg.jpg");
     background-size: cover; }
+    #rampage-lg-detail .lg-art-container #rampage-cutout-lg {
+      right: 0; }
 
   #sparrow-lg-detail .lg-art-container {
     background-image: url("assets/sparrow-bg.jpg");
@@ -2597,10 +2626,14 @@ animated3 {
   #steel-lg-detail .lg-art-container {
     background-image: url("assets/steel-bg.jpg");
     background-size: cover; }
+    #steel-lg-detail .lg-art-container #steel-cutout-lg {
+      right: 10%; }
 
   #twinblast-lg-detail .lg-art-container {
     background-image: url("assets/twinblast-bg.jpg");
-    background-size: cover; } }
+    background-size: cover; }
+    #twinblast-lg-detail .lg-art-container #twinblast-cutout-lg {
+      left: 15%; } }
 /* Medium Devices, Desktops */
 /* Large Devices, Wide Screens */
 /*==========  Mobile First Method  ==========*/
@@ -2613,11 +2646,12 @@ animated3 {
 @media only screen and (min-width: 768px) {
   #hero {
     display: inline-block;
+    margin-top: -16px;
     width: 100%; }
     #hero .flexslider {
       width: 100%; }
       #hero .flexslider .flex-viewport {
-        height: 600px; }
+        height: 60%; }
       #hero .flexslider .slides {
         width: 100%;
         padding: 0; }

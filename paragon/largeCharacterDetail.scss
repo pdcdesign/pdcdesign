@@ -71,6 +71,12 @@
                     h5,h4{
                         color:$gold;
                     }
+                    h5{
+                        margin-bottom:5px;
+                    }
+                    h4{
+                        margin-top:0;
+                    }
 
                         .ability-icon{
                             height:50px;
@@ -94,7 +100,7 @@
                 background-image:url('assets/dekker-bg.jpg');
                 background-size:cover;
                     #dekker-cutout-lg{
-                        position:absolute;
+                        left:10%;
                     }
             }
         }
@@ -116,6 +122,7 @@
                 background-image:url('assets/gideon-bg.jpg');
                 background-size:cover;
                     #gideon-cutout-lg{
+                    left:20%;
                     }
             }
         }
@@ -142,7 +149,8 @@
             .lg-art-container{
                 background-image:url('assets/howitzer-bg.jpg');
                 background-size:cover;
-                    #howtizer-cutout-lg{
+                    #howitzer-cutout-lg{
+                        right:0;
                     }
             }
         }
@@ -152,6 +160,7 @@
                 background-image:url('assets/gadget-bg.jpg');
                 background-size:cover;
                     #gadget-cutout-lg{
+                    left:15%;
                     }
             }
         }
@@ -161,6 +170,7 @@
                 background-image:url('assets/murdock-bg.jpg');
                 background-size:cover;
                     #murdock-cutout-lg{
+                    left:15%;
                     }
             }
         }
@@ -170,6 +180,7 @@
                 background-image:url('assets/muriel-bg.jpg');
                 background-size:cover;
                     #muriel-cutout-lg{
+                    left:10%;
                     }
             }
         }
@@ -179,6 +190,7 @@
                 background-image:url('assets/rampage-bg.jpg');
                 background-size:cover;
                     #rampage-cutout-lg{
+                        right:0;
                     }
             }
         }
@@ -197,6 +209,7 @@
                 background-image:url('assets/steel-bg.jpg');
                 background-size:cover;
                     #steel-cutout-lg{
+                    right:10%;
                     }
             }
         }
@@ -206,6 +219,7 @@
                 background-image:url('assets/twinblast-bg.jpg');
                 background-size:cover;
                     #twinblast-cutout-lg{
+                    left:15%;
                     }
             }
         }
