@@ -2530,22 +2530,39 @@ animated3 {
           bottom: 0;
           height: 90%; }
         #large-character-detail article .lg-art-container .lg-character-info {
-          background: rgba(42, 42, 42, 0.9);
+          background: rgba(0, 0, 0, 0.9);
           color: white;
           padding: 50px; }
           #large-character-detail article .lg-art-container .lg-character-info h2 {
             font-size: 2.5em;
-            margin-top: 0; }
+            margin-top: 0;
+            margin-bottom: 15px; }
+          #large-character-detail article .lg-art-container .lg-character-info h3 {
+            margin-top: 0;
+            font-style: italic; }
+          #large-character-detail article .lg-art-container .lg-character-info h4 {
+            margin-bottom: 0;
+            color: #acab9c; }
+          #large-character-detail article .lg-art-container .lg-character-info h5 {
+            margin-top: 5px; }
           #large-character-detail article .lg-art-container .lg-character-info .video-button {
             color: white;
             background: #0070C7;
-            padding: 20px;
-            display: inline-block; }
+            padding: 15px;
+            display: inline-block;
+            margin: 20px 0; }
           #large-character-detail article .lg-art-container .lg-character-info .row {
             padding: 50px 0; }
           #large-character-detail article .lg-art-container .lg-character-info .stats .stat {
             flex-grow: 1;
-            text-align: center; }
+            text-align: center;
+            position: relative;
+            padding: 10px; }
+            #large-character-detail article .lg-art-container .lg-character-info .stats .stat img {
+              position: relative;
+              width: 100%;
+              display: flex;
+              height: auto; }
       #large-character-detail article .lg-abilities {
         padding: 100px 0 200px 0;
         text-align: center;
