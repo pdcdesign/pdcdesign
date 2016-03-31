@@ -36,7 +36,17 @@
 								width:100%;
 								color:white;
 								text-align:center;
-								bottom:20%;
+								bottom:10%;
+									h1{
+										font-size:3em;
+										text-transform:uppercase;
+									}
+									.hero-button{
+										color:white;
+										padding:20px;
+										background: $blue;
+										display:inline-block;
+									}
 							}
 
 						}

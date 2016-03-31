@@ -202,6 +202,16 @@ body {
         .character-detail .character-details .character-name h2 {
           margin-top: 0;
           margin-bottom: 5px; }
+      .character-detail .character-details h4 {
+        text-transform: uppercase;
+        font-size: .8em;
+        color: #acab9c;
+        margin-bottom: 5px; }
+      .character-detail .character-details h5 {
+        text-transform: uppercase;
+        font-weight: 400;
+        font-size: .7em;
+        margin-top: 0; }
       .character-detail .character-details .attributes {
         display: flex; }
         .character-detail .character-details .attributes .attribute {
@@ -214,6 +224,9 @@ body {
           flex-grow: 1;
           padding: 8px;
           text-align: center; }
+          .character-detail .character-details .stats .stat img {
+            width: 75%;
+            margin-bottom: 15px; }
       .character-detail .character-details .accordion, .character-detail .character-details .accordion * {
         -webkit-box-sizing: border-box;
         -moz-box-sizing: border-box;
@@ -2524,7 +2537,7 @@ animated3 {
         width: 100%;
         position: relative;
         overflow: hidden;
-        padding: 150px 0px; }
+        padding: 100px 0px; }
         #large-character-detail article .lg-art-container img {
           position: absolute;
           bottom: 0;
@@ -2532,7 +2545,7 @@ animated3 {
         #large-character-detail article .lg-art-container .lg-character-info {
           background: rgba(0, 0, 0, 0.9);
           color: white;
-          padding: 50px; }
+          padding: 50px 20px; }
           #large-character-detail article .lg-art-container .lg-character-info h2 {
             font-size: 2.5em;
             margin-top: 0;
@@ -2542,9 +2555,14 @@ animated3 {
             font-style: italic; }
           #large-character-detail article .lg-art-container .lg-character-info h4 {
             margin-bottom: 0;
-            color: #acab9c; }
+            color: #acab9c;
+            text-transform: uppercase;
+            font-size: 0.9em; }
           #large-character-detail article .lg-art-container .lg-character-info h5 {
-            margin-top: 5px; }
+            margin-top: 5px;
+            font-size: .7em;
+            font-weight: 400;
+            text-transform: uppercase; }
           #large-character-detail article .lg-art-container .lg-character-info .video-button {
             color: white;
             background: #0070C7;
@@ -2562,7 +2580,8 @@ animated3 {
               position: relative;
               width: 100%;
               display: flex;
-              height: auto; }
+              height: auto;
+              margin-bottom: 20px; }
       #large-character-detail article .lg-abilities {
         padding: 100px 0 200px 0;
         text-align: center;
@@ -2681,7 +2700,15 @@ animated3 {
             width: 100%;
             color: white;
             text-align: center;
-            bottom: 20%; }
+            bottom: 10%; }
+            #hero .flexslider .slides li .hero-info h1 {
+              font-size: 3em;
+              text-transform: uppercase; }
+            #hero .flexslider .slides li .hero-info .hero-button {
+              color: white;
+              padding: 20px;
+              background: #0070C7;
+              display: inline-block; }
       #hero .flexslider .flex-direction-nav {
         display: none; }
       #hero .flexslider .flex-control-thumbs {

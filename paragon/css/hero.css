@@ -1,28 +1,46 @@
 /*
-Error: Undefined mixin 'transition'.
-        on line 63 of /Users/gscafani/Dropbox/projects/playstation/paragon/paragon/hero.scss, in `transition'
-        from line 63 of /Users/gscafani/Dropbox/projects/playstation/paragon/paragon/hero.scss
+Error: Undefined variable: "$blue".
+        on line 47 of /Users/garrettscafani/Dropbox/projects/playstation/paragon/paragon/hero.scss
 
-58: 
-59: 						&:hover > li:hover{
-60: 						opacity:1;
-61: 						}
-62: 					li{
-63: 						@include transition(.25s);
-64: 						box-sizing: border-box;
-65: 					    -moz-box-sizing: border-box;
-66: 					    -webkit-box-sizing: border-box;
-67: 						float:left;
-68: 						flex-grow:1;
+42: 										text-transform:uppercase;
+43: 									}
+44: 									.hero-button{
+45: 										color:white;
+46: 										padding:20px;
+47: 										background: $blue;
+48: 										display:inline-block;
+49: 									}
+50: 							}
+51: 
+52: 						}
 
 Backtrace:
-/Users/gscafani/Dropbox/projects/playstation/paragon/paragon/hero.scss:63:in `transition'
-/Users/gscafani/Dropbox/projects/playstation/paragon/paragon/hero.scss:63
-/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/perform.rb:349:in `block in visit_mixin'
-/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/stack.rb:98:in `block in with_mixin'
+/Users/garrettscafani/Dropbox/projects/playstation/paragon/paragon/hero.scss:47
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/script/tree/variable.rb:49:in `_perform'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/script/tree/node.rb:50:in `perform'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/perform.rb:395:in `visit_prop'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/base.rb:36:in `visit'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/perform.rb:158:in `block in visit'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/stack.rb:79:in `block in with_base'
 /Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/stack.rb:115:in `with_frame'
-/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/stack.rb:98:in `with_mixin'
-/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/perform.rb:347:in `visit_mixin'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/stack.rb:79:in `with_base'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/perform.rb:158:in `visit'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/perform.rb:431:in `block (2 levels) in visit_rule'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/perform.rb:431:in `map'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/perform.rb:431:in `block in visit_rule'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/perform.rb:179:in `with_environment'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/perform.rb:429:in `visit_rule'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/base.rb:36:in `visit'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/perform.rb:158:in `block in visit'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/stack.rb:79:in `block in with_base'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/stack.rb:115:in `with_frame'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/stack.rb:79:in `with_base'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/perform.rb:158:in `visit'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/perform.rb:431:in `block (2 levels) in visit_rule'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/perform.rb:431:in `map'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/perform.rb:431:in `block in visit_rule'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/perform.rb:179:in `with_environment'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/perform.rb:429:in `visit_rule'
 /Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/base.rb:36:in `visit'
 /Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/perform.rb:158:in `block in visit'
 /Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/stack.rb:79:in `block in with_base'
@@ -110,4 +128,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined mixin 'transition'.\A         on line 63 of /Users/gscafani/Dropbox/projects/playstation/paragon/paragon/hero.scss, in `transition'\A         from line 63 of /Users/gscafani/Dropbox/projects/playstation/paragon/paragon/hero.scss\A \A 58: \A 59: 						&:hover > li:hover{\A 60: 						opacity:1;\A 61: 						}\A 62: 					li{\A 63: 						@include transition(.25s);\A 64: 						box-sizing: border-box;\A 65: 					    -moz-box-sizing: border-box;\A 66: 					    -webkit-box-sizing: border-box;\A 67: 						float:left;\A 68: 						flex-grow:1;"; }
+  content: "Error: Undefined variable: \"$blue\".\A         on line 47 of /Users/garrettscafani/Dropbox/projects/playstation/paragon/paragon/hero.scss\A \A 42: 										text-transform:uppercase;\A 43: 									}\A 44: 									.hero-button{\A 45: 										color:white;\A 46: 										padding:20px;\A 47: 										background: $blue;\A 48: 										display:inline-block;\A 49: 									}\A 50: 							}\A 51: \A 52: 						}"; }

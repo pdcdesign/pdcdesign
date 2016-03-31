@@ -1,6 +1,6 @@
 /*
 Error: Undefined variable: "$black-transparent".
-        on line 35 of /Users/gscafani/Dropbox/projects/playstation/paragon/paragon/largeCharacterDetail.scss
+        on line 35 of /Users/garrettscafani/Dropbox/projects/playstation/paragon/paragon/largeCharacterDetail.scss
 
 30:                                 bottom:0;
 31:                                 height:90%;
@@ -9,13 +9,13 @@ Error: Undefined variable: "$black-transparent".
 34:                         .lg-character-info{
 35:                             background: $black-transparent;
 36:                             color:white;
-37:                             padding:50px;
+37:                             padding: 50px 20px;
 38: 
 39: 
 40:                                 h2{
 
 Backtrace:
-/Users/gscafani/Dropbox/projects/playstation/paragon/paragon/largeCharacterDetail.scss:35
+/Users/garrettscafani/Dropbox/projects/playstation/paragon/paragon/largeCharacterDetail.scss:35
 /Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/script/tree/variable.rb:49:in `_perform'
 /Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/script/tree/node.rb:50:in `perform'
 /Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/perform.rb:395:in `visit_prop'
@@ -106,4 +106,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined variable: \"$black-transparent\".\A         on line 35 of /Users/gscafani/Dropbox/projects/playstation/paragon/paragon/largeCharacterDetail.scss\A \A 30:                                 bottom:0;\A 31:                                 height:90%;\A 32:                             }\A 33: \A 34:                         .lg-character-info{\A 35:                             background: $black-transparent;\A 36:                             color:white;\A 37:                             padding:50px;\A 38: \A 39: \A 40:                                 h2{"; }
+  content: "Error: Undefined variable: \"$black-transparent\".\A         on line 35 of /Users/garrettscafani/Dropbox/projects/playstation/paragon/paragon/largeCharacterDetail.scss\A \A 30:                                 bottom:0;\A 31:                                 height:90%;\A 32:                             }\A 33: \A 34:                         .lg-character-info{\A 35:                             background: $black-transparent;\A 36:                             color:white;\A 37:                             padding: 50px 20px;\A 38: \A 39: \A 40:                                 h2{"; }

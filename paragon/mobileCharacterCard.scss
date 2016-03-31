@@ -198,6 +198,22 @@
 					}
 			}
 
+			h4{
+				text-transform:uppercase;
+				font-size:.8em;
+				color: $pale-gold;
+				margin-bottom:5px;
+			}
+
+			h5{
+				text-transform:uppercase;
+				font-weight:400;
+				font-size:.7em;
+				margin-top:0;
+
+
+			}
+
 			.attributes{
 				display:flex;
 					.attribute{
@@ -213,6 +229,11 @@
 						flex-grow:1;
 						padding:8px;
 						text-align:center;
+
+							img{
+								width:75%;
+								margin-bottom:15px;
+							}
 					}
 			}
 
