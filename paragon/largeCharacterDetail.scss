@@ -76,9 +76,11 @@
                                 .video-button{
                                     color:white;
                                     background:#0070C7;
-                                    padding:15px;
+                                    padding: 10px 20px;
                                     display: inline-block;
-                                    margin: 20px 0;
+                                    margin-top: 30px;
+                                    text-transform: uppercase;
+                                    font-size: .9em;
 
                                 }
 
@@ -119,11 +121,12 @@
                                         position:relative;
                                         padding: 10px;
                                             img{
-                                                position:relative;
-                                                width:100%;
-                                                display:flex;
-                                                height:auto;
-                                                margin-bottom: 20px;
+                                                    position: relative;
+                                                    width: 70%;
+                                                    display: flex;
+                                                    height: auto;
+                                                    margin: auto;
+                                                    margin-bottom: 20px;
                                             }
                                             h5{
                                             margin-bottom:0;
@@ -319,91 +322,291 @@
             .lg-art-container{
                 background-image:url('assets/kallari-bg.jpg');
                 background-size:cover;
-                    #kallari-cutout-lg{
-                        left:-35%;
-                    }
+                
             }
         }
+
+         /* Small Devices, Tablets */
+    @media only screen and (min-width : 768px) {
+
+         
+                    #kallari-cutout-lg{
+                        left:-100%;
+                    }
+
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (min-width : 992px) {
+            #kallari-cutout-lg{
+                left:-60%;
+                }
+    }
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (min-width : 1200px) {
+            #kallari-cutout-lg{
+                left:-30%;
+                }
+    }
 
         #howitzer-lg-detail{
             .lg-art-container{
                 background-image:url('assets/howitzer-bg.jpg');
                 background-size:cover;
-                    #howitzer-cutout-lg{
-                        right:-25%;
-                    }
             }
         }
+
+        /* Small Devices, Tablets */
+    @media only screen and (min-width : 768px) {
+
+         
+                    #howitzer-cutout-lg{
+                        right:-75%;
+                    }
+
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (min-width : 992px) {
+            #howitzer-cutout-lg{
+                right:-50%;
+                }
+    }
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (min-width : 1200px) {
+            #howitzer-cutout-lg{
+                right:-20%;
+                }
+    }
+
 
         #gadget-lg-detail{
             .lg-art-container{
                 background-image:url('assets/gadget-bg.jpg');
                 background-size:cover;
-                    #gadget-cutout-lg{
-                    left:15%;
                     }
             }
+
+             /* Small Devices, Tablets */
+    @media only screen and (min-width : 768px) {
+
+         
+                    #gadget-cutout-lg{
+                        left:-10%;
+                    }
+
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (min-width : 992px) {
+            #gadget-cutout-lg{
+                left:0%;
+                }
+    }
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (min-width : 1200px) {
+            #gadget-cutout-lg{
+                left:10%;
+                }
+    
         }
 
         #murdock-lg-detail{
             .lg-art-container{
                 background-image:url('assets/murdock-bg.jpg');
                 background-size:cover;
-                    #murdock-cutout-lg{
-                    left:15%;
-                    }
+            
             }
+        }
+
+          /* Small Devices, Tablets */
+    @media only screen and (min-width : 768px) {
+
+         
+                    #murdock-cutout-lg{
+                        left:-15%;
+                    }
+
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (min-width : 992px) {
+            #murdock-cutout-lg{
+                left:-5%;
+                }
+    }
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (min-width : 1200px) {
+            #murdock-cutout-lg{
+                left:5%;
+                }
+    
         }
 
         #muriel-lg-detail{
             .lg-art-container{
                 background-image:url('assets/muriel-bg.jpg');
                 background-size:cover;
-                    #muriel-cutout-lg{
-                    left:10%;
-                    }
             }
         }
+
+          /* Small Devices, Tablets */
+    @media only screen and (min-width : 768px) {
+
+         
+                    #muriel-cutout-lg{
+                        left:-40%;
+                    }
+
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (min-width : 992px) {
+            #muriel-cutout-lg{
+                left:-20%;
+                }
+    }
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (min-width : 1200px) {
+            #muriel-cutout-lg{
+                left:0%;
+                }
+    }
 
         #rampage-lg-detail{
             .lg-art-container{
                 background-image:url('assets/rampage-bg.jpg');
                 background-size:cover;
-                    #rampage-cutout-lg{
-                        right:-25%;
                     }
-            }
+            
         }
+
+                  /* Small Devices, Tablets */
+    @media only screen and (min-width : 768px) {
+
+         
+                    #rampage-cutout-lg{
+                        right:-85%;
+                    }
+
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (min-width : 992px) {
+            #rampage-cutout-lg{
+                right:-60%;
+                }
+    }
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (min-width : 1200px) {
+            #rampage-cutout-lg{
+                right:-25%;
+                }
+    }
+
+
 
           #sparrow-lg-detail{
             .lg-art-container{
                 background-image:url('assets/sparrow-bg.jpg');
                 background-size:cover;
-                    #sparrow-cutout-lg{
-                        left:-10%;
-                    }
             }
         }
+
+                     /* Small Devices, Tablets */
+    @media only screen and (min-width : 768px) {
+
+         
+                    #sparrow-cutout-lg{
+                        left:-45%;
+                    }
+
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (min-width : 992px) {
+            #sparrow-cutout-lg{
+                left:-25%;
+                }
+    }
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (min-width : 1200px) {
+            #sparrow-cutout-lg{
+                left:-10%;
+                }
+    }
+
 
           #steel-lg-detail{
             .lg-art-container{
                 background-image:url('assets/steel-bg.jpg');
                 background-size:cover;
-                    #steel-cutout-lg{
-                    right:5%;
-                    }
             }
         }
+
+                         /* Small Devices, Tablets */
+    @media only screen and (min-width : 768px) {
+
+         
+                    #steel-cutout-lg{
+                        right:-25%;
+                    }
+
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (min-width : 992px) {
+            #steel-cutout-lg{
+                right:-15%;
+                }
+    }
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (min-width : 1200px) {
+            #steel-cutout-lg{
+                right:0%;
+                }
+    }
+
 
           #twinblast-lg-detail{
             .lg-art-container{
                 background-image:url('assets/twinblast-bg.jpg');
                 background-size:cover;
-                    #twinblast-cutout-lg{
-                    left:15%;
-                    }
             }
         }
+
+                             /* Small Devices, Tablets */
+    @media only screen and (min-width : 768px) {
+
+         
+                    #twinblast-cutout-lg{
+                        left:-15%;
+                    }
+
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (min-width : 992px) {
+            #twinblast-cutout-lg{
+                left:-5%;
+                }
+    }
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (min-width : 1200px) {
+            #twinblast-cutout-lg{
+                left:10%;
+                }
+    }
+
     
 
 

@@ -2587,9 +2587,11 @@ animated3 {
           #large-character-detail article .lg-art-container .lg-character-info .video-button {
             color: white;
             background: #0070C7;
-            padding: 15px;
+            padding: 10px 20px;
             display: inline-block;
-            margin: 20px 0; }
+            margin-top: 30px;
+            text-transform: uppercase;
+            font-size: .9em; }
           #large-character-detail article .lg-art-container .lg-character-info .row {
             padding: 15px 0; }
           #large-character-detail article .lg-art-container .lg-character-info .role figure {
@@ -2615,9 +2617,10 @@ animated3 {
             padding: 10px; }
             #large-character-detail article .lg-art-container .lg-character-info .stats .stat img {
               position: relative;
-              width: 100%;
+              width: 70%;
               display: flex;
               height: auto;
+              margin: auto;
               margin-bottom: 20px; }
             #large-character-detail article .lg-art-container .lg-character-info .stats .stat h5 {
               margin-bottom: 0; }
@@ -2728,56 +2731,173 @@ animated3 {
   #kallari-lg-detail .lg-art-container {
     background-image: url("assets/kallari-bg.jpg");
     background-size: cover; }
-    #kallari-lg-detail .lg-art-container #kallari-cutout-lg {
-      left: -35%; }
 
+  /* Small Devices, Tablets */ }
+@media only screen and (min-width: 768px) and (min-width: 768px) {
+  #kallari-cutout-lg {
+    left: -100%; } }
+@media only screen and (min-width: 768px) {
+  /* Medium Devices, Desktops */ }
+@media only screen and (min-width: 768px) and (min-width: 992px) {
+  #kallari-cutout-lg {
+    left: -60%; } }
+@media only screen and (min-width: 768px) {
+  /* Large Devices, Wide Screens */ }
+@media only screen and (min-width: 768px) and (min-width: 1200px) {
+  #kallari-cutout-lg {
+    left: -30%; } }
+@media only screen and (min-width: 768px) {
   #howitzer-lg-detail .lg-art-container {
     background-image: url("assets/howitzer-bg.jpg");
     background-size: cover; }
-    #howitzer-lg-detail .lg-art-container #howitzer-cutout-lg {
-      right: -25%; }
 
+  /* Small Devices, Tablets */ }
+@media only screen and (min-width: 768px) and (min-width: 768px) {
+  #howitzer-cutout-lg {
+    right: -75%; } }
+@media only screen and (min-width: 768px) {
+  /* Medium Devices, Desktops */ }
+@media only screen and (min-width: 768px) and (min-width: 992px) {
+  #howitzer-cutout-lg {
+    right: -50%; } }
+@media only screen and (min-width: 768px) {
+  /* Large Devices, Wide Screens */ }
+@media only screen and (min-width: 768px) and (min-width: 1200px) {
+  #howitzer-cutout-lg {
+    right: -20%; } }
+@media only screen and (min-width: 768px) {
   #gadget-lg-detail .lg-art-container {
     background-image: url("assets/gadget-bg.jpg");
     background-size: cover; }
-    #gadget-lg-detail .lg-art-container #gadget-cutout-lg {
-      left: 15%; }
 
+  /* Small Devices, Tablets */ }
+@media only screen and (min-width: 768px) and (min-width: 768px) {
+  #gadget-cutout-lg {
+    left: -10%; } }
+@media only screen and (min-width: 768px) {
+  /* Medium Devices, Desktops */ }
+@media only screen and (min-width: 768px) and (min-width: 992px) {
+  #gadget-cutout-lg {
+    left: 0%; } }
+@media only screen and (min-width: 768px) {
+  /* Large Devices, Wide Screens */ }
+@media only screen and (min-width: 768px) and (min-width: 1200px) {
+  #gadget-cutout-lg {
+    left: 10%; } }
+@media only screen and (min-width: 768px) {
   #murdock-lg-detail .lg-art-container {
     background-image: url("assets/murdock-bg.jpg");
     background-size: cover; }
-    #murdock-lg-detail .lg-art-container #murdock-cutout-lg {
-      left: 15%; }
 
+  /* Small Devices, Tablets */ }
+@media only screen and (min-width: 768px) and (min-width: 768px) {
+  #murdock-cutout-lg {
+    left: -15%; } }
+@media only screen and (min-width: 768px) {
+  /* Medium Devices, Desktops */ }
+@media only screen and (min-width: 768px) and (min-width: 992px) {
+  #murdock-cutout-lg {
+    left: -5%; } }
+@media only screen and (min-width: 768px) {
+  /* Large Devices, Wide Screens */ }
+@media only screen and (min-width: 768px) and (min-width: 1200px) {
+  #murdock-cutout-lg {
+    left: 5%; } }
+@media only screen and (min-width: 768px) {
   #muriel-lg-detail .lg-art-container {
     background-image: url("assets/muriel-bg.jpg");
     background-size: cover; }
-    #muriel-lg-detail .lg-art-container #muriel-cutout-lg {
-      left: 10%; }
 
+  /* Small Devices, Tablets */ }
+@media only screen and (min-width: 768px) and (min-width: 768px) {
+  #muriel-cutout-lg {
+    left: -40%; } }
+@media only screen and (min-width: 768px) {
+  /* Medium Devices, Desktops */ }
+@media only screen and (min-width: 768px) and (min-width: 992px) {
+  #muriel-cutout-lg {
+    left: -20%; } }
+@media only screen and (min-width: 768px) {
+  /* Large Devices, Wide Screens */ }
+@media only screen and (min-width: 768px) and (min-width: 1200px) {
+  #muriel-cutout-lg {
+    left: 0%; } }
+@media only screen and (min-width: 768px) {
   #rampage-lg-detail .lg-art-container {
     background-image: url("assets/rampage-bg.jpg");
     background-size: cover; }
-    #rampage-lg-detail .lg-art-container #rampage-cutout-lg {
-      right: -25%; }
 
+  /* Small Devices, Tablets */ }
+@media only screen and (min-width: 768px) and (min-width: 768px) {
+  #rampage-cutout-lg {
+    right: -85%; } }
+@media only screen and (min-width: 768px) {
+  /* Medium Devices, Desktops */ }
+@media only screen and (min-width: 768px) and (min-width: 992px) {
+  #rampage-cutout-lg {
+    right: -60%; } }
+@media only screen and (min-width: 768px) {
+  /* Large Devices, Wide Screens */ }
+@media only screen and (min-width: 768px) and (min-width: 1200px) {
+  #rampage-cutout-lg {
+    right: -25%; } }
+@media only screen and (min-width: 768px) {
   #sparrow-lg-detail .lg-art-container {
     background-image: url("assets/sparrow-bg.jpg");
     background-size: cover; }
-    #sparrow-lg-detail .lg-art-container #sparrow-cutout-lg {
-      left: -10%; }
 
+  /* Small Devices, Tablets */ }
+@media only screen and (min-width: 768px) and (min-width: 768px) {
+  #sparrow-cutout-lg {
+    left: -45%; } }
+@media only screen and (min-width: 768px) {
+  /* Medium Devices, Desktops */ }
+@media only screen and (min-width: 768px) and (min-width: 992px) {
+  #sparrow-cutout-lg {
+    left: -25%; } }
+@media only screen and (min-width: 768px) {
+  /* Large Devices, Wide Screens */ }
+@media only screen and (min-width: 768px) and (min-width: 1200px) {
+  #sparrow-cutout-lg {
+    left: -10%; } }
+@media only screen and (min-width: 768px) {
   #steel-lg-detail .lg-art-container {
     background-image: url("assets/steel-bg.jpg");
     background-size: cover; }
-    #steel-lg-detail .lg-art-container #steel-cutout-lg {
-      right: 5%; }
 
+  /* Small Devices, Tablets */ }
+@media only screen and (min-width: 768px) and (min-width: 768px) {
+  #steel-cutout-lg {
+    right: -25%; } }
+@media only screen and (min-width: 768px) {
+  /* Medium Devices, Desktops */ }
+@media only screen and (min-width: 768px) and (min-width: 992px) {
+  #steel-cutout-lg {
+    right: -15%; } }
+@media only screen and (min-width: 768px) {
+  /* Large Devices, Wide Screens */ }
+@media only screen and (min-width: 768px) and (min-width: 1200px) {
+  #steel-cutout-lg {
+    right: 0%; } }
+@media only screen and (min-width: 768px) {
   #twinblast-lg-detail .lg-art-container {
     background-image: url("assets/twinblast-bg.jpg");
     background-size: cover; }
-    #twinblast-lg-detail .lg-art-container #twinblast-cutout-lg {
-      left: 15%; } }
+
+  /* Small Devices, Tablets */ }
+@media only screen and (min-width: 768px) and (min-width: 768px) {
+  #twinblast-cutout-lg {
+    left: -15%; } }
+@media only screen and (min-width: 768px) {
+  /* Medium Devices, Desktops */ }
+@media only screen and (min-width: 768px) and (min-width: 992px) {
+  #twinblast-cutout-lg {
+    left: -5%; } }
+@media only screen and (min-width: 768px) {
+  /* Large Devices, Wide Screens */ }
+@media only screen and (min-width: 768px) and (min-width: 1200px) {
+  #twinblast-cutout-lg {
+    left: 10%; } }
 /* Medium Devices, Desktops */
 /* Large Devices, Wide Screens */
 /*==========  Mobile First Method  ==========*/
