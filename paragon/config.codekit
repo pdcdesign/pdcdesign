@@ -590,6 +590,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/assets\/steel-alt.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 45040,
+		"inputAbbreviatedPath": "\/assets\/steel-alt.jpg",
+		"outputAbbreviatedPath": "\/assets\/steel-alt.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/steel-bg.jpg": {
 		"fileType": 16384,
 		"ignore": 0,

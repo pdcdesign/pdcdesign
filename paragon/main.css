@@ -2862,7 +2862,7 @@ animated3 {
     left: -10%; } }
 @media only screen and (min-width: 768px) {
   #steel-lg-detail .lg-art-container {
-    background-image: url("assets/steel-bg.jpg");
+    background-image: url("assets/steel-alt.jpg");
     background-size: cover; }
 
   /* Small Devices, Tablets */ }
