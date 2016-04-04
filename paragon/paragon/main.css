@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans|Open+Sans+Condensed:300,700);
 .flex {
   display: flex; }
 
@@ -5,7 +6,12 @@ body {
   margin: 0;
   font-family: sans-serif;
   width: 100%;
-  overflow-x: hidden; }
+  overflow-x: hidden;
+  font-family: "Open Sans", sans-serif; }
+
+h1, h2, h4 {
+  font-family: "Open Sans Condensed", sans-serif;
+  text-transform: uppercase; }
 
 .img-responsive {
   width: 100%; }
@@ -283,10 +289,10 @@ body {
               margin-bottom: 0; } }
 /* Extra Small Devices, Phones */
 /* Small Devices, Tablets */
-/* Medium Devices, Desktops */
-@media only screen and (min-width: 992px) {
+@media only screen and (min-width: 768px) {
   #character-details {
     display: none; } }
+/* Medium Devices, Desktops */
 /* Large Devices, Wide Screens */
 /*!
  * animate.css -http://daneden.me/animate
@@ -2549,10 +2555,18 @@ animated3 {
           bottom: 0;
           height: 90%; }
         #large-character-detail article .lg-art-container .lg-character-info {
-          background: rgba(0, 0, 0, 0.75);
+          background: rgba(0, 0, 0, 0.9);
           color: white;
           padding: 50px 20px;
           text-align: center; }
+          #large-character-detail article .lg-art-container .lg-character-info .ability-button {
+            color: white;
+            background: black;
+            padding: 10px 20px;
+            display: inline-block;
+            margin-top: 30px;
+            text-transform: uppercase;
+            font-size: .9em; }
           #large-character-detail article .lg-art-container .lg-character-info h2 {
             font-size: 2.5em;
             margin-top: 0;
@@ -2605,6 +2619,8 @@ animated3 {
               display: flex;
               height: auto;
               margin-bottom: 20px; }
+            #large-character-detail article .lg-art-container .lg-character-info .stats .stat h5 {
+              margin-bottom: 0; }
       #large-character-detail article .lg-abilities {
         padding: 100px 0 200px 0;
         text-align: center;
@@ -2613,6 +2629,17 @@ animated3 {
         color: white;
         width: 100%;
         background: black; }
+        #large-character-detail article .lg-abilities .container {
+          border: solid rgba(255, 255, 255, 0.5) 1px;
+          padding: 20px 60px; }
+          #large-character-detail article .lg-abilities .container .ability-row {
+            margin-top: -170px; }
+          #large-character-detail article .lg-abilities .container .row h1 {
+            transform: translate(0, -120px);
+            background: black;
+            padding: 20px;
+            display: inline-block;
+            font-size: 3em; }
         #large-character-detail article .lg-abilities h5, #large-character-detail article .lg-abilities h4 {
           color: #dbbd68; }
         #large-character-detail article .lg-abilities h5 {
@@ -2625,27 +2652,79 @@ animated3 {
   #dekker-lg-detail .lg-art-container {
     background-image: url("assets/dekker-bg.jpg");
     background-size: cover; }
-    #dekker-lg-detail .lg-art-container #dekker-cutout-lg {
-      left: 10%; }
 
+  /* Small Devices, Tablets */ }
+@media only screen and (min-width: 768px) and (min-width: 768px) {
+  #dekker-cutout-lg {
+    left: -18%; } }
+@media only screen and (min-width: 768px) {
+  /* Medium Devices, Desktops */ }
+@media only screen and (min-width: 768px) and (min-width: 992px) {
+  #dekker-cutout-lg {
+    left: -10%; } }
+@media only screen and (min-width: 768px) {
+  /* Large Devices, Wide Screens */ }
+@media only screen and (min-width: 768px) and (min-width: 1200px) {
+  #dekker-cutout-lg {
+    left: 0%; } }
+@media only screen and (min-width: 768px) {
   #fengmao-lg-detail .lg-art-container {
     background-image: url("assets/fengmao-bg.jpg");
     background-size: cover; }
-    #fengmao-lg-detail .lg-art-container #fengmao-cutout-lg {
-      right: 0; }
 
+  /* Small Devices, Tablets */ }
+@media only screen and (min-width: 768px) and (min-width: 768px) {
+  #fengmao-cutout-lg {
+    right: -40%; } }
+@media only screen and (min-width: 768px) {
+  /* Medium Devices, Desktops */ }
+@media only screen and (min-width: 768px) and (min-width: 992px) {
+  #fengmao-cutout-lg {
+    right: -20%; } }
+@media only screen and (min-width: 768px) {
+  /* Large Devices, Wide Screens */ }
+@media only screen and (min-width: 768px) and (min-width: 1200px) {
+  #fengmao-cutout-lg {
+    right: 0%; } }
+@media only screen and (min-width: 768px) {
   #gideon-lg-detail .lg-art-container {
     background-image: url("assets/gideon-bg.jpg");
     background-size: cover; }
-    #gideon-lg-detail .lg-art-container #gideon-cutout-lg {
-      left: 20%; }
 
+  /* Small Devices, Tablets */ }
+@media only screen and (min-width: 768px) and (min-width: 768px) {
+  #gideon-cutout-lg {
+    left: 0%; } }
+@media only screen and (min-width: 768px) {
+  /* Medium Devices, Desktops */ }
+@media only screen and (min-width: 768px) and (min-width: 992px) {
+  #gideon-cutout-lg {
+    left: 10%; } }
+@media only screen and (min-width: 768px) {
+  /* Large Devices, Wide Screens */ }
+@media only screen and (min-width: 768px) and (min-width: 1200px) {
+  #gideon-cutout-lg {
+    left: 20%; } }
+@media only screen and (min-width: 768px) {
   #grux-lg-detail .lg-art-container {
     background-image: url("assets/grux-bg.jpg");
     background-size: cover; }
-    #grux-lg-detail .lg-art-container #grux-cutout-lg {
-      left: -25%; }
 
+  /* Small Devices, Tablets */ }
+@media only screen and (min-width: 768px) and (min-width: 768px) {
+  #grux-cutout-lg {
+    left: -80%; } }
+@media only screen and (min-width: 768px) {
+  /* Medium Devices, Desktops */ }
+@media only screen and (min-width: 768px) and (min-width: 992px) {
+  #grux-cutout-lg {
+    left: -55%; } }
+@media only screen and (min-width: 768px) {
+  /* Large Devices, Wide Screens */ }
+@media only screen and (min-width: 768px) and (min-width: 1200px) {
+  #grux-cutout-lg {
+    left: -25%; } }
+@media only screen and (min-width: 768px) {
   #kallari-lg-detail .lg-art-container {
     background-image: url("assets/kallari-bg.jpg");
     background-size: cover; }

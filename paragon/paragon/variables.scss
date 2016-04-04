@@ -2,9 +2,10 @@ $dark-gray: #2a2a2a;
 $gold: #dbbd68;
 $dark-gray-transparent: rgba(42,42,42,.90);
 $pale-gold: #acab9c;
-$black-transparent: rgba(0,0,0,.75);
+$black-transparent: rgba(0,0,0,.9);
 $blue: #0070C7;
-
+$open:'Open Sans', sans-serif;
+$condensed:'Open Sans Condensed', sans-serif;
 
 
 
@@ -30,7 +31,15 @@ body{
 	font-family: sans-serif;
 	width:100%;
 	overflow-x:hidden;
+	font-family:$open;
 }
+
+
+h1,h2,h4{
+	font-family:$condensed;
+	text-transform:uppercase;
+}
+
 
 
 .img-responsive{

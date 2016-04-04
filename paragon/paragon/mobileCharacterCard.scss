@@ -358,14 +358,14 @@
 
     /* Small Devices, Tablets */
     @media only screen and (min-width : 768px) {
-
+    	#character-details{
+			display:none;
+			}
     }
 
     /* Medium Devices, Desktops */
     @media only screen and (min-width : 992px) {
-    	#character-details{
-			display:none;
-			}
+    	
     }
 
     /* Large Devices, Wide Screens */

@@ -37,6 +37,16 @@
                             padding: 50px 20px;
                             text-align:center;
 
+                              .ability-button{
+                                color: white;
+                                background: black;
+                                padding: 10px 20px;
+                                display: inline-block;
+                                margin-top: 30px;
+                                text-transform: uppercase;
+                                font-size: .9em;
+                    }
+
 
                                 h2{
                                     font-size: 2.5em;
@@ -115,6 +125,9 @@
                                                 height:auto;
                                                 margin-bottom: 20px;
                                             }
+                                            h5{
+                                            margin-bottom:0;
+                                            }
                                     }
                                 }
                         }
@@ -128,6 +141,27 @@
                     color:white;
                     width:100%;
                     background:black;
+
+
+
+                        .container{
+                            border: solid rgba(255,255,255,.5) 1px;                            
+                            padding: 20px 60px;;
+                            .ability-row{
+                            margin-top:-170px;
+                            }
+                            .row{
+                                h1{
+                                            transform: translate(0, -120px);
+                                            background: black;
+                                            padding: 20px;
+                                            display: inline-block;
+                                            font-size: 3em;
+                                }
+                            }
+
+                        }
+
                     h5,h4{
                         color:$gold;
                     }
@@ -153,17 +187,37 @@
 
 
 
-
-
-        #dekker-lg-detail{
+  #dekker-lg-detail{
             .lg-art-container{
                 background-image:url('assets/dekker-bg.jpg');
                 background-size:cover;
-                    #dekker-cutout-lg{
-                        left:10%;
-                    }
+                }
             }
-        }
+
+     
+    /* Small Devices, Tablets */
+    @media only screen and (min-width : 768px) {
+
+         
+                    #dekker-cutout-lg{
+                        left:-18%;
+                    }
+
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (min-width : 992px) {
+            #dekker-cutout-lg{
+                left:-10%;
+                }
+    }
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (min-width : 1200px) {
+            #dekker-cutout-lg{
+                left:0%;
+                }
+    }
 
 
 
@@ -171,31 +225,95 @@
             .lg-art-container{
                 background-image:url('assets/fengmao-bg.jpg');
                 background-size:cover;
-                    #fengmao-cutout-lg{
-                        right: 0;
-                    }
             }
         }
+
+        /* Small Devices, Tablets */
+    @media only screen and (min-width : 768px) {
+
+         
+                    #fengmao-cutout-lg{
+                        right:-40%;
+                    }
+
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (min-width : 992px) {
+            #fengmao-cutout-lg{
+                right:-20%;
+                }
+    }
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (min-width : 1200px) {
+            #fengmao-cutout-lg{
+                right:0%;
+                }
+    }
+
 
          #gideon-lg-detail{
             .lg-art-container{
                 background-image:url('assets/gideon-bg.jpg');
                 background-size:cover;
-                    #gideon-cutout-lg{
-                    left:20%;
-                    }
             }
         }
+
+         /* Small Devices, Tablets */
+    @media only screen and (min-width : 768px) {
+
+         
+                    #gideon-cutout-lg{
+                        left:0%;
+                    }
+
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (min-width : 992px) {
+            #gideon-cutout-lg{
+                left:10%;
+                }
+    }
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (min-width : 1200px) {
+            #gideon-cutout-lg{
+                left:20%;
+                }
+    }
 
         #grux-lg-detail{
             .lg-art-container{
                 background-image:url('assets/grux-bg.jpg');
                 background-size:cover;
-                    #grux-cutout-lg{
-                        left:-25%;
-                    }
             }
         }
+
+              /* Small Devices, Tablets */
+    @media only screen and (min-width : 768px) {
+
+         
+                    #grux-cutout-lg{
+                        left:-80%;
+                    }
+
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (min-width : 992px) {
+            #grux-cutout-lg{
+                left:-55%;
+                }
+    }
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (min-width : 1200px) {
+            #grux-cutout-lg{
+                left:-25%;
+                }
+    }
 
         #kallari-lg-detail{
             .lg-art-container{
