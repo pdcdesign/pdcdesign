@@ -359,6 +359,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/assets\/kallari-alt.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 88079,
+		"inputAbbreviatedPath": "\/assets\/kallari-alt.jpg",
+		"outputAbbreviatedPath": "\/assets\/kallari-alt.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/kallari-bg.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -546,6 +557,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/assets\/sparrow-alt.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 74782,
+		"inputAbbreviatedPath": "\/assets\/sparrow-alt.jpg",
+		"outputAbbreviatedPath": "\/assets\/sparrow-alt.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/sparrow-bg.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -655,6 +677,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/assets\/twinblast-alt.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 65959,
+		"inputAbbreviatedPath": "\/assets\/twinblast-alt.jpg",
+		"outputAbbreviatedPath": "\/assets\/twinblast-alt.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/assets\/twinblast-bg.jpg": {
 		"fileType": 16384,

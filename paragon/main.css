@@ -2729,7 +2729,7 @@ animated3 {
     left: -25%; } }
 @media only screen and (min-width: 768px) {
   #kallari-lg-detail .lg-art-container {
-    background-image: url("assets/kallari-bg.jpg");
+    background-image: url("assets/kallari-alt.jpg");
     background-size: cover; }
 
   /* Small Devices, Tablets */ }
@@ -2843,7 +2843,7 @@ animated3 {
     right: -25%; } }
 @media only screen and (min-width: 768px) {
   #sparrow-lg-detail .lg-art-container {
-    background-image: url("assets/sparrow-bg.jpg");
+    background-image: url("assets/sparrow-alt.jpg");
     background-size: cover; }
 
   /* Small Devices, Tablets */ }
@@ -2881,7 +2881,7 @@ animated3 {
     right: 0%; } }
 @media only screen and (min-width: 768px) {
   #twinblast-lg-detail .lg-art-container {
-    background-image: url("assets/twinblast-bg.jpg");
+    background-image: url("assets/twinblast-alt.jpg");
     background-size: cover; }
 
   /* Small Devices, Tablets */ }
