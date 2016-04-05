@@ -8,12 +8,23 @@
 	background-image: url('assets/herobg.jpg');
 	background-size:cover;
 	background-position: top center;
-	padding-top: 150px;
+	padding-top: 60px;
 	padding-bottom:60px;
+
+	h1{
+	 color: white;
+    text-align: center;
+    font-size: 2.5em;
+    margin-top:0;
+    margin-bottom:60px;
+
+	}
 
 		.character-thumb{
 			padding:3px;	
-
+			a{
+			text-decoration:none;
+			}
 		}
 		figure{
 			margin:0;
@@ -25,7 +36,7 @@
 					background:$dark-gray;
 					padding:5px;
 						h4{
-						margin:0 0 5px 0;
+						margin:0 0 0 0;
 						color: $gold;
 						}
 						h3{

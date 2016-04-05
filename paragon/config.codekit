@@ -88,18 +88,18 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 62279,
+		"initialSize": 61451,
 		"inputAbbreviatedPath": "\/assets\/dekker-bg.jpg",
 		"outputAbbreviatedPath": "\/assets\/dekker-bg.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/dekker-cutout.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 630651,
+		"initialSize": 619923,
 		"inputAbbreviatedPath": "\/assets\/dekker-cutout.png",
 		"outputAbbreviatedPath": "\/assets\/dekker-cutout.png",
 		"outputPathIsOutsideProject": 0,
@@ -110,40 +110,40 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 88212,
+		"initialSize": 87335,
 		"inputAbbreviatedPath": "\/assets\/dekker-hero.jpg",
 		"outputAbbreviatedPath": "\/assets\/dekker-hero.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/dekker-thumb.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 56392,
+		"initialSize": 55582,
 		"inputAbbreviatedPath": "\/assets\/dekker-thumb.png",
 		"outputAbbreviatedPath": "\/assets\/dekker-thumb.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/fengmao-bg.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 99140,
+		"initialSize": 98288,
 		"inputAbbreviatedPath": "\/assets\/fengmao-bg.jpg",
 		"outputAbbreviatedPath": "\/assets\/fengmao-bg.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/fengmao-cutout.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2.21236e+06,
+		"initialSize": 2.18764e+06,
 		"inputAbbreviatedPath": "\/assets\/fengmao-cutout.png",
 		"outputAbbreviatedPath": "\/assets\/fengmao-cutout.png",
 		"outputPathIsOutsideProject": 0,
@@ -154,177 +154,177 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 64433,
+		"initialSize": 63569,
 		"inputAbbreviatedPath": "\/assets\/fengmao-hero.jpg",
 		"outputAbbreviatedPath": "\/assets\/fengmao-hero.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/fengmao-thumb.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 62632,
+		"initialSize": 61998,
 		"inputAbbreviatedPath": "\/assets\/fengmao-thumb.png",
 		"outputAbbreviatedPath": "\/assets\/fengmao-thumb.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/gadget-bg.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 77284,
+		"initialSize": 76412,
 		"inputAbbreviatedPath": "\/assets\/gadget-bg.jpg",
 		"outputAbbreviatedPath": "\/assets\/gadget-bg.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/gadget-cutout.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 480242,
+		"initialSize": 472073,
 		"inputAbbreviatedPath": "\/assets\/gadget-cutout.png",
 		"outputAbbreviatedPath": "\/assets\/gadget-cutout.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/gadget-hero.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 50531,
+		"initialSize": 49692,
 		"inputAbbreviatedPath": "\/assets\/gadget-hero.jpg",
 		"outputAbbreviatedPath": "\/assets\/gadget-hero.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/gadget-thumb.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 66037,
+		"initialSize": 65312,
 		"inputAbbreviatedPath": "\/assets\/gadget-thumb.png",
 		"outputAbbreviatedPath": "\/assets\/gadget-thumb.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/gideon-bg.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 68775,
+		"initialSize": 67926,
 		"inputAbbreviatedPath": "\/assets\/gideon-bg.jpg",
 		"outputAbbreviatedPath": "\/assets\/gideon-bg.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/gideon-cutout.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 475737,
+		"initialSize": 475598,
 		"inputAbbreviatedPath": "\/assets\/gideon-cutout.png",
 		"outputAbbreviatedPath": "\/assets\/gideon-cutout.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/gideon-hero.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 50023,
+		"initialSize": 49181,
 		"inputAbbreviatedPath": "\/assets\/gideon-hero.jpg",
 		"outputAbbreviatedPath": "\/assets\/gideon-hero.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/gideon-thumb.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 48596,
+		"initialSize": 47733,
 		"inputAbbreviatedPath": "\/assets\/gideon-thumb.png",
 		"outputAbbreviatedPath": "\/assets\/gideon-thumb.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/grux-bg.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 132110,
+		"initialSize": 131255,
 		"inputAbbreviatedPath": "\/assets\/grux-bg.jpg",
 		"outputAbbreviatedPath": "\/assets\/grux-bg.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/grux-cutout.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 550852,
+		"initialSize": 545761,
 		"inputAbbreviatedPath": "\/assets\/grux-cutout.png",
 		"outputAbbreviatedPath": "\/assets\/grux-cutout.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/grux-hero.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 78393,
+		"initialSize": 75451,
 		"inputAbbreviatedPath": "\/assets\/grux-hero.jpg",
 		"outputAbbreviatedPath": "\/assets\/grux-hero.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/grux-thumb.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 63975,
+		"initialSize": 63514,
 		"inputAbbreviatedPath": "\/assets\/grux-thumb.png",
 		"outputAbbreviatedPath": "\/assets\/grux-thumb.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/herobg.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 55100,
+		"initialSize": 47104,
 		"inputAbbreviatedPath": "\/assets\/herobg.jpg",
 		"outputAbbreviatedPath": "\/assets\/herobg.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/howitzer-bg.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 101143,
+		"initialSize": 100296,
 		"inputAbbreviatedPath": "\/assets\/howitzer-bg.jpg",
 		"outputAbbreviatedPath": "\/assets\/howitzer-bg.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/howitzer-cutout.png": {
 		"fileType": 32768,
@@ -341,23 +341,23 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 69785,
+		"initialSize": 68921,
 		"inputAbbreviatedPath": "\/assets\/howitzer-hero.jpg",
 		"outputAbbreviatedPath": "\/assets\/howitzer-hero.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/howitzer-thumb.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 71214,
+		"initialSize": 70916,
 		"inputAbbreviatedPath": "\/assets\/howitzer-thumb.png",
 		"outputAbbreviatedPath": "\/assets\/howitzer-thumb.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/kallari-alt.jpg": {
 		"fileType": 16384,
@@ -374,188 +374,188 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 82208,
+		"initialSize": 81371,
 		"inputAbbreviatedPath": "\/assets\/kallari-bg.jpg",
 		"outputAbbreviatedPath": "\/assets\/kallari-bg.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/kallari-cutout.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 571929,
+		"initialSize": 571186,
 		"inputAbbreviatedPath": "\/assets\/kallari-cutout.png",
 		"outputAbbreviatedPath": "\/assets\/kallari-cutout.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/kallari-hero.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 63157,
+		"initialSize": 59485,
 		"inputAbbreviatedPath": "\/assets\/kallari-hero.jpg",
 		"outputAbbreviatedPath": "\/assets\/kallari-hero.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/kallari-thumb.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 61851,
+		"initialSize": 60923,
 		"inputAbbreviatedPath": "\/assets\/kallari-thumb.png",
 		"outputAbbreviatedPath": "\/assets\/kallari-thumb.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/murdock-bg.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 105551,
+		"initialSize": 104690,
 		"inputAbbreviatedPath": "\/assets\/murdock-bg.jpg",
 		"outputAbbreviatedPath": "\/assets\/murdock-bg.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/murdock-cutout.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 288990,
+		"initialSize": 283034,
 		"inputAbbreviatedPath": "\/assets\/murdock-cutout.png",
 		"outputAbbreviatedPath": "\/assets\/murdock-cutout.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/murdock-hero.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 70488,
+		"initialSize": 65733,
 		"inputAbbreviatedPath": "\/assets\/murdock-hero.jpg",
 		"outputAbbreviatedPath": "\/assets\/murdock-hero.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/murdock-thumb.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 67416,
+		"initialSize": 66299,
 		"inputAbbreviatedPath": "\/assets\/murdock-thumb.png",
 		"outputAbbreviatedPath": "\/assets\/murdock-thumb.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/muriel-bg.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 69193,
+		"initialSize": 68365,
 		"inputAbbreviatedPath": "\/assets\/muriel-bg.jpg",
 		"outputAbbreviatedPath": "\/assets\/muriel-bg.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/muriel-cutout.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 683894,
+		"initialSize": 678125,
 		"inputAbbreviatedPath": "\/assets\/muriel-cutout.png",
 		"outputAbbreviatedPath": "\/assets\/muriel-cutout.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/muriel-hero.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 51616,
+		"initialSize": 50753,
 		"inputAbbreviatedPath": "\/assets\/muriel-hero.jpg",
 		"outputAbbreviatedPath": "\/assets\/muriel-hero.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/muriel-thumb.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 59659,
+		"initialSize": 58568,
 		"inputAbbreviatedPath": "\/assets\/muriel-thumb.png",
 		"outputAbbreviatedPath": "\/assets\/muriel-thumb.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/paragon-logo.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 67463,
+		"initialSize": 48162,
 		"inputAbbreviatedPath": "\/assets\/paragon-logo.jpg",
 		"outputAbbreviatedPath": "\/assets\/paragon-logo.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/rampage-bg.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 99701,
+		"initialSize": 98849,
 		"inputAbbreviatedPath": "\/assets\/rampage-bg.jpg",
 		"outputAbbreviatedPath": "\/assets\/rampage-bg.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/rampage-cutout.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 572364,
+		"initialSize": 568399,
 		"inputAbbreviatedPath": "\/assets\/rampage-cutout.png",
 		"outputAbbreviatedPath": "\/assets\/rampage-cutout.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/rampage-hero.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 65674,
+		"initialSize": 62698,
 		"inputAbbreviatedPath": "\/assets\/rampage-hero.jpg",
 		"outputAbbreviatedPath": "\/assets\/rampage-hero.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/rampage-thumb.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 63895,
+		"initialSize": 63514,
 		"inputAbbreviatedPath": "\/assets\/rampage-thumb.png",
 		"outputAbbreviatedPath": "\/assets\/rampage-thumb.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/sparrow-alt.jpg": {
 		"fileType": 16384,
@@ -572,51 +572,51 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 97409,
+		"initialSize": 96547,
 		"inputAbbreviatedPath": "\/assets\/sparrow-bg.jpg",
 		"outputAbbreviatedPath": "\/assets\/sparrow-bg.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/sparrow-cutout.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 359033,
+		"initialSize": 355186,
 		"inputAbbreviatedPath": "\/assets\/sparrow-cutout.png",
 		"outputAbbreviatedPath": "\/assets\/sparrow-cutout.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/sparrow-hero.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 65489,
+		"initialSize": 64647,
 		"inputAbbreviatedPath": "\/assets\/sparrow-hero.jpg",
 		"outputAbbreviatedPath": "\/assets\/sparrow-hero.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/sparrow-thumb.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 44627,
+		"initialSize": 43572,
 		"inputAbbreviatedPath": "\/assets\/sparrow-thumb.png",
 		"outputAbbreviatedPath": "\/assets\/sparrow-thumb.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/steel-alt.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 45040,
+		"initialSize": 45261,
 		"inputAbbreviatedPath": "\/assets\/steel-alt.jpg",
 		"outputAbbreviatedPath": "\/assets\/steel-alt.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -627,12 +627,12 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 135667,
+		"initialSize": 134837,
 		"inputAbbreviatedPath": "\/assets\/steel-bg.jpg",
 		"outputAbbreviatedPath": "\/assets\/steel-bg.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/steel-bg.png": {
 		"fileType": 32768,
@@ -649,7 +649,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 670032,
+		"initialSize": 648203,
 		"inputAbbreviatedPath": "\/assets\/steel-cutout.png",
 		"outputAbbreviatedPath": "\/assets\/steel-cutout.png",
 		"outputPathIsOutsideProject": 0,
@@ -660,29 +660,29 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 91894,
+		"initialSize": 89099,
 		"inputAbbreviatedPath": "\/assets\/steel-hero.jpg",
 		"outputAbbreviatedPath": "\/assets\/steel-hero.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/steel-thumb.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 59458,
+		"initialSize": 58975,
 		"inputAbbreviatedPath": "\/assets\/steel-thumb.png",
 		"outputAbbreviatedPath": "\/assets\/steel-thumb.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/twinblast-alt.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 65959,
+		"initialSize": 65734,
 		"inputAbbreviatedPath": "\/assets\/twinblast-alt.jpg",
 		"outputAbbreviatedPath": "\/assets\/twinblast-alt.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -693,51 +693,76 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 113480,
+		"initialSize": 112630,
 		"inputAbbreviatedPath": "\/assets\/twinblast-bg.jpg",
 		"outputAbbreviatedPath": "\/assets\/twinblast-bg.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/twinblast-cutout.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 252292,
+		"initialSize": 248895,
 		"inputAbbreviatedPath": "\/assets\/twinblast-cutout.png",
 		"outputAbbreviatedPath": "\/assets\/twinblast-cutout.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/twinblast-hero.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 51463,
+		"initialSize": 50080,
 		"inputAbbreviatedPath": "\/assets\/twinblast-hero.jpg",
 		"outputAbbreviatedPath": "\/assets\/twinblast-hero.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/twinblast-thumb.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 52113,
+		"initialSize": 51161,
 		"inputAbbreviatedPath": "\/assets\/twinblast-thumb.png",
 		"outputAbbreviatedPath": "\/assets\/twinblast-thumb.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
+		},
+	"\/body.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/body.scss",
+		"outputAbbreviatedPath": "\/css\/body.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
 		},
 	"\/css\/animate.css": {
 		"fileType": 16,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/css\/animate.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/body.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/body.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -801,7 +826,7 @@
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/hero.scss",
 		"outputAbbreviatedPath": "\/css\/hero.css",
@@ -837,7 +862,7 @@
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/largeCharacterDetail.scss",
 		"outputAbbreviatedPath": "\/css\/largeCharacterDetail.css",
@@ -890,7 +915,7 @@
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 0,
-		"ignoreWasSetByUser": 1,
+		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/main.scss",
 		"outputAbbreviatedPath": "\/main.css",
 		"outputPathIsOutsideProject": 0,
@@ -980,7 +1005,7 @@
 	"bowerAbbreviatedPath": "",
 	"displayValue": "paragon",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "brackets_brown"
+	"iconImageName": "harddrive_orange"
 	},
 "projectSettings": {
 	"alwaysUseExternalServer": 0,
