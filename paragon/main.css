@@ -23,18 +23,19 @@ nav {
   /* makes sure it stays on top */ }
 
 #status {
-  width: 200px;
-  height: 200px;
+  width: 100px;
+  height: 100px;
   position: absolute;
   left: 50%;
   /* centers the loading animation horizontally one the screen */
   top: 50%;
   /* centers the loading animation vertically one the screen */
-  background-image: url(/assets/megaman.gif);
+  background-image: url(assets/megaman.gif);
   /* path to your loading animation */
   background-repeat: no-repeat;
   background-position: center;
-  margin: -100px 0 0 -100px;
+  background-size: cover;
+  margin: -50px 0 0 -50px;
   /* is width and height divided by two */ }
 
 .flex {
