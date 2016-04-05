@@ -21,7 +21,7 @@ nav{
     right:0;
     bottom:0;
     background-color:#fff; /* change if the mask should have another color then white */
-    z-index:99; /* makes sure it stays on top */
+    z-index:5000; /* makes sure it stays on top */
 }
 
 #status {
@@ -36,3 +36,6 @@ nav{
     background-size:cover;
     margin:-50px 0 0 -50px; /* is width and height divided by two */
 }
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans|Open+Sans+Condensed:300,700);
+

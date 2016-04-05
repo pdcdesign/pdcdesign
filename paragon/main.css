@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans|Open+Sans+Condensed:300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans|Open+Sans+Condensed:300,700);
 nav {
   width: 100%;
   height: 64px;
@@ -19,7 +20,7 @@ nav {
   bottom: 0;
   background-color: #fff;
   /* change if the mask should have another color then white */
-  z-index: 99;
+  z-index: 5000;
   /* makes sure it stays on top */ }
 
 #status {
@@ -255,6 +256,8 @@ h1, h2, h4 {
         .character-detail .character-details .character-name h2 {
           margin-top: 0;
           margin-bottom: 5px; }
+        .character-detail .character-details .character-name p {
+          margin: 0 0 15px 0; }
       .character-detail .character-details h4 {
         text-transform: uppercase;
         font-size: .8em;
@@ -265,6 +268,23 @@ h1, h2, h4 {
         font-weight: 400;
         font-size: .7em;
         margin-top: 0; }
+      .character-detail .character-details .hero-button {
+        color: white;
+        background: #0070C7;
+        display: inline-block;
+        text-transform: uppercase;
+        padding: 10px 20px;
+        display: inline-block;
+        margin-top: 0;
+        text-transform: uppercase;
+        font-size: .8em; }
+      .character-detail .character-details .hero-spotlight {
+        background: #dbbd68;
+        color: black; }
+        .character-detail .character-details .hero-spotlight img {
+          height: 15px;
+          margin-right: 10px;
+          margin-bottom: -2px; }
       .character-detail .character-details .attributes {
         display: flex; }
         .character-detail .character-details .attributes .attribute {
@@ -2672,7 +2692,7 @@ animated3 {
             #large-character-detail article .lg-art-container .lg-character-info .stats .stat h5 {
               margin-bottom: 0; }
       #large-character-detail article .lg-abilities {
-        padding: 100px 0 200px 0;
+        padding: 100px 0 100px 0;
         text-align: center;
         position: relative;
         display: inline-block;
@@ -2965,7 +2985,8 @@ animated3 {
         height: 600px; }
       #hero .flexslider .slides {
         width: 100%;
-        padding: 0; }
+        padding: 0;
+        height: 100%; }
         #hero .flexslider .slides li {
           width: 100%;
           height: 100%;
@@ -2975,11 +2996,12 @@ animated3 {
             width: 100%;
             color: white;
             text-align: center;
-            bottom: 10%; }
+            bottom: 10%;
+            z-index: 1000; }
             #hero .flexslider .slides li .hero-info h1 {
               font-size: 90px;
               text-transform: uppercase;
-              margin-bottom: 0px; }
+              margin-bottom: 00px; }
             #hero .flexslider .slides li .hero-info h2 {
               font-family: "Open Sans", sans-serif;
               text-transform: none;
@@ -3009,7 +3031,7 @@ animated3 {
         background-image: url("assets/herobg.jpg");
         background-size: cover;
         margin: 0;
-        padding: 20px 80px; }
+        padding: 20px 15%; }
         #hero .flexslider .flex-control-thumbs:hover > li {
           opacity: .5; }
         #hero .flexslider .flex-control-thumbs:hover > li:hover {
@@ -3039,3 +3061,17 @@ animated3 {
     box-shadow: inset 0px 0px 0px 10px #dbbd68; } }
 /* Medium Devices, Desktops */
 /* Large Devices, Wide Screens */
+.gradient {
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+0,000000+100&0+0,0.65+100 */
+  background: -moz-linear-gradient(top, transparent 0%, rgba(0, 0, 0, 0.65) 100%);
+  /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, transparent 0%, rgba(0, 0, 0, 0.65) 100%);
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, transparent 0%, rgba(0, 0, 0, 0.65) 100%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#a6000000',GradientType=0 );
+  /* IE6-9 */
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  z-index: 100; }
